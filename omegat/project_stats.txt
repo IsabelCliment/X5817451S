@@ -1,0 +1,14 @@
+12/05/23 16:04
+Estadísticas del proyecto
+
+                  	Segmentos	Palabras	Caracteres (sin espacios)	Caracteres (con espacios)	#Archivos	
+Total:            	     5420	  105055	                   566204	                   658854	        1	
+Pendientes:       	     5420	  105055	                   566204	                   658854	        1	
+Únicos:           	     4881	  103077	                   555661	                   646938	        1	
+Pendientes únicos:	     4881	  103077	                   555661	                   646938	        1	
+
+
+Estadísticas por archivo individual:
+
+Nombre de archivo     	Total de segmentos	Segmentos pendientes	Segmentos únicos	Segmentos únicos pendientes	Total palabras	Palabras pendientes	Palabras únicas	Palabras únicas pendientes	Total caracteres (sin espacios)	Caracteres pendientes (sin espacios)	Caracteres únicos (sin espacios)	Caracteres únicos pendientes (sin espacios)	Total Caracteres (con espacios)	Caracteres pendientes (con espacios)	Caracteres únicos (con espacios)	Caracteres únicos pendientes (con espacios)	
+proyecto nutrición.txt	              5420	                5420	            4881	                       4881	        105055	             105055	         103077	                    103077	                         566204	                              566204	                          555661	                                     555661	                         658854	                              658854	                          646938	                                     646938	

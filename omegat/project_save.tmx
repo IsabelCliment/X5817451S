@@ -6,6 +6,30 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Alcohol is not recommended for children or young people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T142602Z" creationid="Zsuzsanna Tóth" creationdate="20230428T142602Z">
+        <seg>El alcohol no es recomendado ni para niños ni para jóvenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Appendix 5 presents three-day sample meal plans for children and young people aged 2–3 years, 4–8 years, 9–13 years and 14–18 years.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230507T163147Z" creationid="OmegaT Aligner" creationdate="20230507T145446Z">
+        <seg>En el apéndice 5 se presentan ejemplos de planes de comidas de tres días para niños y jóvenes de edades de 2-3 años, 4-8 años, 9-13 años y 14-18 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As outlined in more detail below, each of the four food groups is important for different reasons and each provides a range of essential nutrients.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230429T063539Z" creationid="Zsuzsanna Tóth" creationdate="20230429T063539Z">
+        <seg>Como se detalla a continuación, cada uno de los cuatro grupos de alimento es importante por una razón diferente y cada uno proporciona una gama de nutrientes esenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Be aware of foods which are more likely to cause choking:
 	–	small hard foods that are difficult for children to bite or chew (eg, nuts, raw carrot, apple, celery)
 	–	small round foods that can get stuck in children’s throats (eg, grapes, berries, peas, watermelon and other large seeds, lollies, raisins/sultanas)
@@ -34,6 +58,14 @@ To reduce the risk of choking on these foods, you can:
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be physically active.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T144027Z" creationid="Zsuzsanna Tóth" creationdate="20230428T144027Z">
+        <seg>Hacer actividad física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Breads and cereals
 The breads and cereals food group includes all breads, cereals, rice, pasta and foods made from grain.</seg>
       </tuv>
@@ -56,6 +88,16 @@ El grupo de alimentos de panes y cereales incluye todos los panes, cereales, arr
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230518T164158Z" creationid="mgr26" creationdate="20230518T164158Z">
         <seg>El pan y los cereales aportan energía, hidratos de carbono, fibra dietética (especialmente los cereales integrales), proteínas y vitaminas del grupo B (excepto la B12). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breakfast
+Eating breakfast is associated with a range of positive health outcomes, including better nutrient intake and a healthy body weight (Rampersaud et al 2005; de la Hunty and Ashwell 2007).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230512T162612Z" creationid="Zsuzsanna Tóth" creationdate="20230512T162612Z">
+        <seg>Desayuno
+Desayunar está asociado con una variedad de resultados positivos para la salud, que incluyen una mejor ingesta de nutrientes y un peso corporal saludable (Rampersaud et al 2005; de la Hunty y Ashwell 2007).</seg>
       </tuv>
     </tu>
     <tu>
@@ -96,6 +138,70 @@ El grupo de alimentos de panes y cereales incluye todos los panes, cereales, arr
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230429T092621Z" creationid="mgr26" creationdate="20230429T092621Z">
         <seg>Coma lo suficiente acorde a la actividad y crecimiento para mantener un tamaño corporal sano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eat meals with family or whānau as often as possible.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T143315Z" creationid="Zsuzsanna Tóth" creationdate="20230428T143315Z">
+        <seg>Comer con familia y allegados tan a menudo como sea posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eating a variety of foods in the recommended amounts from each of the four food groups should provide sufficient energy and nutrients for most healthy children and young people (see sample meal plans in Appendix 5).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230429T064513Z" creationid="Zsuzsanna Tóth" creationdate="20230429T064513Z">
+        <seg>Consumir una variedad de alimentos en las cantidades recomendadas de cada uno de los cuatro grupos alimentarios debe proporcionar energía y nutrientes suficientes para la mayoría de niños y adolescentes sanos (ver ejemplo de dieta en el apéndice 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eating regular meals and small snacks during the day from the four food groups (see section 1.2: Food groups and recommended serving sizes) is the key to healthy eating for children and young people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230507T145446Z" creationid="OmegaT Aligner" creationdate="20230507T145446Z">
+        <seg>La clave de una alimentación sana para niños y jóvenes reside en realizar comidas regulares y pequeños tentempiés durante el día de los cuatro grupos de alimentos (véase el apartado 1.2: Grupos de alimentos y raciones recomendadas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encourage children and young people to be involved in shopping, growing and cooking family meals.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T143504Z" creationid="Zsuzsanna Tóth" creationdate="20230428T143504Z">
+        <seg>Animar a los niños y a los jóvenes involucrarse en la compra, en la cultivación y en la elaboración de las comidas familiares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Food and Nutrition Guidelines for Healthy Children and Young People
+(aged 2–18 years)
+A background paper</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T162516Z" creationid="Zsuzsanna Tóth" creationdate="20230519T162516Z">
+        <seg>COMIDA and Nutrition Guidelines for Healthy Children and Young People
+(aged 2–18 years)
+A background paper</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Food groups and recommended serving sizes
+The Food and Nutrition Guideline Statements refer to the four food groups:
+1.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T145521Z" creationid="Zsuzsanna Tóth" creationdate="20230428T145521Z">
+        <seg>Grupos de alimentos y tamaños de porción recomendados
+Las Guías de Alimentación y Nutrición se refieren a los cuatro grupos de alimentos:
+1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, choose kebabs, wraps, pizza with lots of vegetables and minimal cheese, non-fried Asian rice or noodles dishes with lots of vegetables, sushi, or some takeaway hot-filled bread roll choices, pasta with tomato-based sauces or baked potatoes with meat, beans and salad.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230507T162746Z" creationid="Zsuzsanna Tóth" creationdate="20230507T160748Z">
+        <seg>Por ejemplo, elija kebabs, wraps, pizza con mucha verdura y poco queso, platos asiáticos de arroz o fideos no fritos con mucha verdura, sushi, o algunas opciones de panecillos rellenos calientes para llevar, pasta con salsas a base de tomate o patatas asadas con carne, alubias y ensalada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -205,12 +311,28 @@ type 2 diabetes and many cancers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Meals and snacks should be limited to a maximum of six over the day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230509T142000Z" creationid="Zsuzsanna Tóth" creationdate="20230509T142000Z">
+        <seg>Las comidas y refrigerios deben limitarse a un máximo de seis durante el día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimising the risk of food related choking in young children
 People can choke on food at any age but children under five years of age are at higher risk of choking, with children under three years of age at greatest risk.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230512T000250Z" creationid="sansi" creationdate="20230511T234224Z">
         <seg>Reducir el riesgo de asfixia por comida en niños
 Cualquier persona puede atragantarse pero los niños menores de cinco años tienen una mayor probabilidad de asfixia, y aún mayor en niños menores de tres años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Most people eat meals on a daily basis at particular times (eg, breakfast, lunch, dinner).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230509T134135Z" creationid="Zsuzsanna Tóth" creationdate="20230509T134135Z">
+        <seg>La mayoría de las personas comen diariamente a horas determinadas (p. ej., desayuno, almuerzo, cena).</seg>
       </tuv>
     </tu>
     <tu>
@@ -251,10 +373,50 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Purchase, prepare, cook and store food in ways to ensure food safety.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T143908Z" creationid="Zsuzsanna Tóth" creationdate="20230428T143908Z">
+        <seg>Abastecer, preparar, cocinar y conservar los alimentos de acuerdo a la seguridad alimenticia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Table 1 for more information on recommended intakes of vegetables and fruit, including descriptions of serving sizes.</seg>
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230518T164054Z" creationid="mgr26" creationdate="20230518T164054Z">
         <seg>Consulte la Tabla 1 para obtener más información sobre las ingestas recomendadas de verdura y fruta, incluidas las descripciones de los tamaños de las raciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Similarly significant growth and, for some, relatively high activity levels can increase energy and nutrient requirements for young people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230507T145446Z" creationid="OmegaT Aligner" creationdate="20230507T145446Z">
+        <seg>Del mismo modo, un crecimiento importante y, para algunos, unos niveles de actividad relativamente altos pueden aumentar las necesidades de energía y nutrientes de los jóvenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping breakfast during childhood has been associated with higher body mass index (BMI) (Utter et al 2007b) while skipping this meal during adolescence predicts increased BMI in young adulthood (Niemeier et al 2006).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230512T163055Z" creationid="Zsuzsanna Tóth" creationdate="20230512T163055Z">
+        <seg>Saltarse el desayuno durante la infancia se asocia con un mayor índice de masa corporal (IMC) (Utter et al 2007b), mientras que saltarse esta comida durante la adolescencia predice un aumento del IMC en las primeras fases de la edad adulta (Niemeier et al 2006).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping breakfast may also have an adverse effect on cognitive function (including memory), academic performance, school attendance, psychosocial function and mood in children and young people (Pollitt and Matthews 1998; Rampersaud et al 2005).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230512T163523Z" creationid="Zsuzsanna Tóth" creationdate="20230512T163523Z">
+        <seg>Saltarse el desayuno puede tener un efecto adverso sobre la función cognitiva también (incluida la memoria), el rendimiento académico, la asistencia a la escuela, la función psicosocial y el estado de ánimo en niños y jóvenes (Pollitt y Matthews 1998; Rampersaud et al 2005).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping breakfast tends to be more common among girls than boys (Rampersaud et al 2005).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230512T163720Z" creationid="Zsuzsanna Tóth" creationdate="20230512T163720Z">
+        <seg>Saltarse el desayuno tiende a ser más común entre las niñas que entre los niños (Rampersaud et al 2005)</seg>
       </tuv>
     </tu>
     <tu>
@@ -271,6 +433,14 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T143738Z" creationid="sansi" creationdate="20230428T143626Z">
         <seg>Los tubérculos con almidón (ej. patatas, kūmara y taro) son fuentes importantes de carbohidratos en la dieta de Nueva Zelanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The association between skipping breakfast and overweight/obesity does not appear to be explained by energy intake, so breakfast consumption may be a marker for other healthy dietary and physical activity behaviours (Rampersaud et al 2005; de la Hunty and Ashwell 2007).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230512T163243Z" creationid="Zsuzsanna Tóth" creationdate="20230512T163243Z">
+        <seg>La relación entre saltarse el desayuno y el sobrepeso/obesidad no parece explicarse por la ingesta de energía, por lo que el consumo del desayuno puede ser un marcador de otras conductas dietéticas y de actividad física saludables (Rampersaud et al 2005; de la Hunty y Ashwell 2007).</seg>
       </tuv>
     </tu>
     <tu>
@@ -295,6 +465,14 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T144955Z" creationid="sansi" creationdate="20230428T144955Z">
         <seg>Estos colores también indican las cantidades de compuestos protectores en frutas y verduras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This practice can help them to have enough energy available when they need it and to meet all the nutrients requirements.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230509T134015Z" creationid="Zsuzsanna Tóth" creationdate="20230509T134015Z">
+        <seg>Esta práctica puede ayudarles a tener suficiente energía disponible cuando la necesitan y a satisfacer todos los requerimientos de nutrientes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +516,36 @@ Las verduras y las frutas proporcionan energía, carbohidratos, fibra dietética
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230510T001618Z" creationid="sansi" creationdate="20230510T000522Z">
         <seg>Aunque las legumbres, los frutos secos* y las semillas aportan muchas vitaminas y minerales importantes, en general contienen una considerable menor cantidad de proteínas por ración. (véase la Tabla 1) que la carne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>breads and cereals
+3.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T145615Z" creationid="Zsuzsanna Tóth" creationdate="20230428T145615Z">
+        <seg>pan y cereales
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>milk and milk products
+4.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T145707Z" creationid="Zsuzsanna Tóth" creationdate="20230428T145707Z">
+        <seg>leche y productos lácteos
+4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>vegetables and fruit
+2.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T145631Z" creationid="Zsuzsanna Tóth" creationdate="20230428T145551Z">
+        <seg>verdura y fruta
+2.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

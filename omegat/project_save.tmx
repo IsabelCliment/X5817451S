@@ -30,6 +30,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Be active in as many ways as possible, for example, through play, cultural activities, dance, sport and recreation, jobs and going from place to place.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T162937Z" creationid="sansi" creationdate="20230519T162937Z">
+        <seg>Estar activo de todas las maneras posibles, por ejemplo, a través de juegos, actividades culturales, baile, deporte y entretenimiento, trabajos y andar de un lugar a otro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Be active with friends and whānau, at home, school, and in your community.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T162943Z" creationid="sansi" creationdate="20230519T162943Z">
+        <seg>Estar activo con amigos y seres queridos, en casa, en el colegio y en tu comunidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Be aware of foods which are more likely to cause choking:
 	–	small hard foods that are difficult for children to bite or chew (eg, nuts, raw carrot, apple, celery)
 	–	small round foods that can get stuck in children’s throats (eg, grapes, berries, peas, watermelon and other large seeds, lollies, raisins/sultanas)
@@ -429,10 +445,26 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spend less than two hours a day (out of school time) in front of television, computers and gaming consoles.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T162932Z" creationid="sansi" creationdate="20230519T162932Z">
+        <seg>Pasar menos de dos horas diarias (fuera de las horas lectivas) delante de la televisión, ordenador o videoconsolas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Starchy root vegetables (eg, potatoes, kūmara and taro) are important sources of carbohydrate in the New Zealand diet.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T143738Z" creationid="sansi" creationdate="20230428T143626Z">
         <seg>Los tubérculos con almidón (ej. patatas, kūmara y taro) son fuentes importantes de carbohidratos en la dieta de Nueva Zelanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take part in regular physical activity, aiming for 60 minutes or more of moderate to vigorous activity each day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T162925Z" creationid="sansi" creationdate="20230519T162917Z">
+        <seg>Participar en actividades físicas regulares procurando a 60 minutos o más de actividad moderada a vigurosa diariamente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -481,6 +513,16 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T144643Z" creationid="sansi" creationdate="20230428T144643Z">
         <seg>Para obtener una gran variedad de nutrientes es importante comer muchos tipos de frutas y verduras distintas cada día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To reduce the risk of food-related choking in young children:
+Always make sure young children sit down while they eat, and that an adult is with them while they are eating or drinking.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T163051Z" creationid="sansi" creationdate="20230519T163051Z">
+        <seg>Para reducir el riesgo de asfixia por comida en niños:
+Asegúrese de que los niños siempre están sentados a la hora de comer, y que un adulto está con ellos mientras comen o beben.</seg>
       </tuv>
     </tu>
     <tu>

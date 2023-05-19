@@ -336,6 +336,14 @@ La salud y el bienestar de nuestros niños y jóvenes son extremadamente importa
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Good nutrition and adequate physical activity are key contributors to both health and development.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T191251Z" creationid="Zsuzsanna Tóth" creationdate="20230519T191251Z">
+        <seg>La buena nutrición y la actividad física adecuada son factores clave para la salud y el desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>High intakes of vegetables and fruit have been shown to reduce the risk of cardiovascular disease,
 type 2 diabetes and many cancers.</seg>
       </tuv>
@@ -607,6 +615,14 @@ Este documento está disponible en www.health.govt.nz</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230519T162925Z" creationid="sansi" creationdate="20230519T162917Z">
         <seg>Participar en actividades físicas regulares procurando a 60 minutos o más de actividad moderada a vigurosa diariamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Food and Nutrition Guidelines for Healthy Children and Young People (Aged 2–18 Years): A background paper (2012) provides the information to educate and encourage children, young people and their families or whānau to follow healthy lifestyles.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T191457Z" creationid="Zsuzsanna Tóth" creationdate="20230519T191457Z">
+        <seg>Las Directrices sobre alimentación y nutrición para niños y jóvenes sanos (de 2 a 18 años): Documento de referencia (2012) proporciona la información necesaria para educar y animar a los niños, jóvenes y sus familias o allegados a seguir estilos de vida saludables.</seg>
       </tuv>
     </tu>
     <tu>

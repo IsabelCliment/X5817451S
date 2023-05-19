@@ -4,6 +4,342 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>Be aware of foods which are more likely to cause choking:
+	–	small hard foods that are difficult for children to bite or chew (eg, nuts, raw carrot, apple, celery)
+	–	small round foods that can get stuck in children’s throats (eg, grapes, berries, peas, watermelon and other large seeds, lollies, raisins/sultanas)
+	–	foods with skins or leaves that are difficult to chew (eg, sausages, chicken, lettuce, nectarines, peaches, plums)
+	–	compressible* food that can get stuck in children’s throats (eg hot dogs, sausages, pieces of cooked meat, popcorn)
+	–	thick pastes that can get stuck in children’s throats (eg, chocolate spreads, thick peanut butter)
+	–	fibrous or stringy foods that are difficult for children to chew (celery, rhubarb, raw pineapple)
+To reduce the risk of choking on these foods, you can:
+	–	alter the food texture – grate, cook, finely chop or mash the food
+	–	remove the high risk parts of the food – peel off the skin, or remove the strong fibres
+	–	avoid giving small hard foods, such as whole nuts and large seeds, until children are at least 5 years old.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T152435Z" creationid="sansi" creationdate="20230519T152435Z">
+        <seg>Sea consciente de las comidas con mayor probabilidad de causar asfixia:
+	–	comidas pequeñas y duras que dificultan el masticar o morder a los niños (ej. nueces, zanahoria cruda, manzana, apio)
+	–	comidas pequeñas y con forma redonda que pueden quedarse atascadas en la garganta de un niño (ej. uvas, bayas, guisantes, sandía u otras semillas grandes, piruletas, pasas/pasas de esmirna)
+	–	comida con pieles u hojas que dificultan el masticar (ej. salchichas, pollo, lechuga, nectarinas, melocotones, ciruelas)
+	–	comida compacta* que puede quedarse atascada en la garganta de un niño (ej. perritos calientes, salchichas, trozos de carne cocinada, palomitas)
+	–	cremas espesas que pueden quedarse atascadas en la garganta de un niño (ej. chocolate para untar, mantequila de cacahuete espesa)
+	–	comida fibrosa o con fibras que son difíciles de masticar para un niño (apio, ruibarbo, piña)
+Para reducir el riesgo de asfixia con estas comidas, puede:
+	–	alterar la textura de la comida - rallarla, cocinarla, cortarla en láminas o hacerla puré.
+	–	extraiga las partes con mayor probabilidad de causar asficia - quite la piel o las fibras duras.
+	–	evite darles comidas pequeñas y duras, como nueces enteras o semillas grandes, hasta que los niños tengan 5 años como mínimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breads and cereals
+The breads and cereals food group includes all breads, cereals, rice, pasta and foods made from grain.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T164139Z" creationid="mgr26" creationdate="20230518T164139Z">
+        <seg>Pan y cereales
+El grupo de alimentos de panes y cereales incluye todos los panes, cereales, arroz, pasta y alimentos elaborados con granos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breads and cereals are also an important source of energy for children and young people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T164217Z" creationid="mgr26" creationdate="20230518T164217Z">
+        <seg>El pan y los cereales son también una importante fuente de energía para niños y jóvenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breads and cereals provide energy, carbohydrate, dietary fibre (especially wholegrains), protein and B vitamins (except B12).</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T164158Z" creationid="mgr26" creationdate="20230518T164158Z">
+        <seg>El pan y los cereales aportan energía, hidratos de carbono, fibra dietética (especialmente los cereales integrales), proteínas y vitaminas del grupo B (excepto la B12). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Canned vegetables and fruit are also picked at their prime and retain many nutrients, although beware of added sugar and salt.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T163912Z" creationid="mgr26" creationdate="20230518T163912Z">
+        <seg>Las verduras y frutas en conserva también se recogen en su mejor momento y conservan muchos nutrientes, aunque hay que tener cuidado con el azúcar y la sal añadidos. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colour is a good guide to ensuring variety with vegetables and fruit, which are often classified as green (eg, broccoli, spinach, kiwifruit), yellow/orange (eg, carrots, pumpkin, mandarins), red (eg, tomatoes, red peppers, strawberries), blue/ purple (eg, beetroot, eggplant, plums) or brown/white (eg, onions, potatoes, bananas).</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T144930Z" creationid="sansi" creationdate="20230428T144930Z">
+        <seg>El color es un buen guía para asegurar una variedad de frutas y verduras, que suelen estar clasificadas como verdes (ej. brocoli, espinaca, kiwi), amarillas/naranjas (ej. zanahorias, calabaza, mandarinas), rojas (ej. tomates, pimientos rojos, fresas), azules/moradas (ej. remolacha, berenjena, ciruelas) o marrones/blancas (ej. cebollas, patatas, plátanos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Commercially frozen vegetables and fruit are usually picked at their prime and ‘snap frozen’ so they should retain many of their nutrients.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T163845Z" creationid="mgr26" creationdate="20230518T163845Z">
+        <seg>Las verduras y frutas congeladas comercialmente suelen recogerse en su mejor momento y congelarse a presión, por lo que conservan muchos de sus nutrientes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Drink plenty of water during the day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230429T093130Z" creationid="mgr26" creationdate="20230429T093130Z">
+        <seg>Beba bastante agua durante el día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eat enough for activity, growth and to maintain a healthy body size.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230429T092621Z" creationid="mgr26" creationdate="20230429T092621Z">
+        <seg>Coma lo suficiente acorde a la actividad y crecimiento para mantener un tamaño corporal sano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For more information see section 12.1: Vegetarian eating).</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230510T000559Z" creationid="sansi" creationdate="20230510T000559Z">
+        <seg>Para más información, véase el apartado 12.1: Alimentación vegetariana).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this reason, eating a wide range of whole or minimally processed vegetables and fruit is the best method for gaining optimal nutrient intake and reducing the risk of chronic disease.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T144605Z" creationid="sansi" creationdate="20230428T144605Z">
+        <seg>Por esta razón, comer una gran variedad de frutas y verduras completamente naturales o mínimamente procesadas es el mejor método para obtener una cantidad de nutrientes óptima y reducir el riesgo de enfermedades crónicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For those choosing more of those foods than meat foods or those following a vegetarian diet, additional servings of those foods are required as described in Table 1.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230510T001656Z" creationid="sansi" creationdate="20230510T000538Z">
+        <seg>Para aquellos que eligen más de esos alimentos que de carne o quienes siguen una dieta vegetariana, se requieren raciones adicionales de esos alimentos según se describe en la Tabla 1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For those who eat meat, choose lean meat, poultry and fish where possible.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230510T001417Z" creationid="sansi" creationdate="20230510T000414Z">
+        <seg>Para aquellos que comen carne, elijan carne magra, aves y pescado siempre que sea posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fresh, frozen or canned vegetables and fruit are all usually good dietary options.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T163827Z" creationid="mgr26" creationdate="20230518T163827Z">
+        <seg>Las verduras y frutas frescas, congeladas o en conserva suelen ser buenas opciones dietéticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>High intakes of vegetables and fruit have been shown to reduce the risk of cardiovascular disease,
+type 2 diabetes and many cancers.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T144039Z" creationid="sansi" creationdate="20230428T144039Z">
+        <seg>Se ha demostrado que consumir altas cantidades de frutas y verduras reduce el riesgo de enfermedades cardiovasculares, diabetes del tipo 2 y muchos tipos de cáncer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If vegetable or fruit juice or dried fruit is consumed, it contributes up to one serving only of the total recommended number of servings for this food group so that additional servings of fresh, frozen or canned vegetables and fruit are still required to meet recommendations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T164013Z" creationid="mgr26" creationdate="20230518T164013Z">
+        <seg>Si se consumen zumos de verdura o fruta o fruta deshidratada, sólo aportan hasta una ración del número total de raciones recomendadas para este grupo de alimentos, por lo que siguen siendo necesarias raciones adicionales de verdura y fruta fresca, congelada o en conserva para cumplir las recomendaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition to providing many nutrients, most vegetables and fruit are low in energy and contribute to satiety (feeling of abdominal fullness after eating), so may help people maintain a healthy weight.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T143935Z" creationid="sansi" creationdate="20230428T143935Z">
+        <seg>Además de proporcionar muchos nutrientes, la mayoría de frutas y verduras son bajas en energía y contribuyen a sentirse satisfecho (la sensación de tener el abdomen lleno después de comer), por lo que pueden ayudar a las personas a mantener un peso sano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include reduced or low-fat milk every day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230429T093211Z" creationid="mgr26" creationdate="20230429T093211Z">
+        <seg>Incluya leche baja en grasa cada día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the synergistic effect of this mixture of protective compounds that provides the benefit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T144406Z" creationid="sansi" creationdate="20230428T144406Z">
+        <seg>El origen del beneficio es el efecto sinergético de la mezcla de compuestos protectores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Juiced or dried fruit are high in sugar.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T163951Z" creationid="mgr26" creationdate="20230518T163951Z">
+        <seg>Los zumos y la fruta deshidratada tienen un alto contenido en azúcar. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Juiced vegetables and juiced or dried fruit contain fewer beneficial compounds than whole foods.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T163929Z" creationid="mgr26" creationdate="20230518T163929Z">
+        <seg>Los zumos de verduras y frutas contienen menos compuestos beneficiosos que los alimentos enteros. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lean meat, poultry, seafood, eggs, legumes, nuts* and seeds provide energy, protein, fats (more often saturated in meat; mostly unsaturated in seafood, nuts* and seeds), carbohydrate (especially from legumes), vitamins (B12, niacin, thiamin) and minerals (iron, zinc, selenium, magnesium, potassium, phosphorus).</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230510T001529Z" creationid="sansi" creationdate="20230510T000506Z">
+        <seg>La carne magra, las aves, el marisco, los huevos, las legumbres, los frutos secos* y las semillas aportan energía, proteínas, grasas (usualmente saturadas en la carne; mayoritariamente no saturadas en el marisco, los frutos secos* y las semillas), hidratos de carbono (especialmente en las legumbres), vitaminas (B12, niacina, tiamina) y minerales (hierro, zinc, selenio, magnesio, potasio, fósforo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimising the risk of food related choking in young children
+People can choke on food at any age but children under five years of age are at higher risk of choking, with children under three years of age at greatest risk.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230512T000250Z" creationid="sansi" creationdate="20230511T234224Z">
+        <seg>Reducir el riesgo de asfixia por comida en niños
+Cualquier persona puede atragantarse pero los niños menores de cinco años tienen una mayor probabilidad de asfixia, y aún mayor en niños menores de tres años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offer food that matches their chewing and grinding ability.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T152427Z" creationid="sansi" creationdate="20230519T152427Z">
+        <seg>Ofrecezca comida de acuerdo con sus habilidades para masticar y moler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 1: New Zealand Food and Nutrition Guidelines
+1.1	The New Zealand Food and Nutrition Guideline Statements, including physical activity
+The New Zealand Food and Nutrition Guideline Statements for healthy children and young people are the key recommendations to ensure optimal growth and prevent nutritional deficiencies, obesity and diet-related chronic diseases.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230429T091651Z" creationid="mgr26" creationdate="20230429T091651Z">
+        <seg>Parte 1: Pautas de nutrición de comida neozelandesa
+1.1	El informe de pautas de nutrición y comida neozelandesa, incluyendo actividad física
+El informe de pautas de nutrición y comida neozelandesa para niños y adolescentes sanos es un conjunto de recomendaciones clave para asegurar un crecimiento óptimo y prevenir deficiencias nutricionales, obesidad y enfermedades crónicas relacionadas con la dieta. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plant foods such as vegetables and fruit contain a wide range of different compounds that promote good health.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T144152Z" creationid="sansi" creationdate="20230428T144152Z">
+        <seg>Plantas comestibles como las frutas y las verduras tienen una amplitud de diferentes compuestos que ayudan a tener una mejor salud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Processed meats (eg, luncheon, salami, ham, bacon and sausages) are usually high in saturated fat and/or salt, and have also been linked to bowel cancer in adults (World Cancer Research Fund and American Institute for Cancer Research 2007, 2011).</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230510T002020Z" creationid="sansi" creationdate="20230510T000447Z">
+        <seg>Las carnes procesadas (ej., fiambre, salami, jamón, bacon y salchichas) suelen tener un alto contenido en grasas saturadas y/o sal, y también se han relacionado con el cáncer de intestino en adultos (World Cancer Research Fund y American Institute for Cancer Research 2007, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Table 1 for more information on recommended intakes of vegetables and fruit, including descriptions of serving sizes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T164054Z" creationid="mgr26" creationdate="20230518T164054Z">
+        <seg>Consulte la Tabla 1 para obtener más información sobre las ingestas recomendadas de verdura y fruta, incluidas las descripciones de los tamaños de las raciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some of these compounds have already been identified (eg, dietary fibre, phytochemicals) and others are as yet unknown.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T144251Z" creationid="sansi" creationdate="20230428T144251Z">
+        <seg>Algunos de estos compuestos ya han dicho identificados (ej. fibra dietética, fitoquimicos) y otros aún están por descubrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Starchy root vegetables (eg, potatoes, kūmara and taro) are important sources of carbohydrate in the New Zealand diet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T143738Z" creationid="sansi" creationdate="20230428T143626Z">
+        <seg>Los tubérculos con almidón (ej. patatas, kūmara y taro) son fuentes importantes de carbohidratos en la dieta de Nueva Zelanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The guideline statements are as follows.</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230429T091718Z" creationid="mgr26" creationdate="20230429T091718Z">
+        <seg>Las pautas son las siguientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The intake of processed meats needs to be limited.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230510T000432Z" creationid="sansi" creationdate="20230510T000432Z">
+        <seg>Es necesario limitar la ingesta de carnes procesadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These colours also indicate high levels of protective compounds in vegetables and fruit.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T144955Z" creationid="sansi" creationdate="20230428T144955Z">
+        <seg>Estos colores también indican las cantidades de compuestos protectores en frutas y verduras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To obtain a wide range of nutrients it is important to eat many different types of vegetables and fruit every day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T144643Z" creationid="sansi" creationdate="20230428T144643Z">
+        <seg>Para obtener una gran variedad de nutrientes es importante comer muchos tipos de frutas y verduras distintas cada día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Useful resources on vegetables and fruit are available on the 5+ A Day website, www.5aday.co.nz</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T145045Z" creationid="sansi" creationdate="20230428T145045Z">
+        <seg>Puede encontrar información útil sobre frutas y verduras en la página de 5+ A Day, www.5aday.co.nz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vegetables and fruit
+Vegetables and fruit provide energy, carbohydrate, dietary fibre, vitamins (including vitamin A, vitamin C and folate) and minerals (including potassium and magnesium).</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230428T143724Z" creationid="sansi" creationdate="20230428T143445Z">
+        <seg>Verduras y frutas
+Las verduras y las frutas proporcionan energía, carbohidratos, fibra dietética, vitaminas (incluyendo vitamina A, vitamina C y folato) y minerales (incluyendo potasio y magnesio).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What are ‘wholegrains’?</seg>
+      </tuv>
+      <tuv lang="es" changeid="mgr26" changedate="20230518T171618Z" creationid="mgr26" creationdate="20230518T171618Z">
+        <seg>
+¿Qué son los cereales integrales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While legumes, nuts* and seeds provide many important vitamins and minerals, in general they contain significantly less protein per serving size (see Table 1) than meat.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230510T001618Z" creationid="sansi" creationdate="20230510T000522Z">
+        <seg>Aunque las legumbres, los frutos secos* y las semillas aportan muchas vitaminas y minerales importantes, en general contienen una considerable menor cantidad de proteínas por ración. (véase la Tabla 1) que la carne.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

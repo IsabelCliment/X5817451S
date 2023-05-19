@@ -491,6 +491,28 @@ low in salt (if using salt, use iodised salt).</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Published in July 2012
+Partial revision February 2015 (minor editorial changes)
+by the Ministry of Health
+PO Box 5013, Wellington 6145, New Zealand
+ISBN 978-0-478-44482-7 (print)
+ISBN 978-0-478-44483-4 (online)
+HP 5480
+This document is available at www.health.govt.nz</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T190259Z" creationid="Zsuzsanna Tóth" creationdate="20230519T190259Z">
+        <seg>Publicado en julio de 2012
+Revisión parcial de febrero de 2015 (cambios editoriales menores)
+por el Ministerio de Sanidad
+PO Box 5013, Wellington 6145, Nueva Zelanda
+ISBN 978-0-478-44482-7 (impreso)
+ISBN 978-0-478-44483-4 (en línea)
+HP 5480
+Este documento está disponible en www.health.govt.nz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Purchase, prepare, cook and store food in ways to ensure food safety.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T143908Z" creationid="Zsuzsanna Tóth" creationdate="20230428T143908Z">
@@ -607,6 +629,14 @@ low in salt (if using salt, use iodised salt).</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230509T134015Z" creationid="Zsuzsanna Tóth" creationdate="20230509T134015Z">
         <seg>Esta práctica puede ayudarles a tener suficiente energía disponible cuando la necesitan y a satisfacer todos los requerimientos de nutrientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This work is licensed under the Creative Commons Attribution 4.0 International licence.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T190709Z" creationid="Zsuzsanna Tóth" creationdate="20230519T190709Z">
+        <seg>Esta obra está bajo licencia Creative Commons Reconocimiento 4.0 Internacional.</seg>
       </tuv>
     </tu>
     <tu>

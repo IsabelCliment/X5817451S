@@ -6,6 +6,15 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Acknowledgements 
+The development of the Food and Nutrition Guidelines for Children and Young People (Aged 2–18 Years): A background paper has involved a number of stages.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T193747Z" creationid="Zsuzsanna Tóth" creationdate="20230519T193747Z">
+        <seg>ReconocimientosLa elaboración de las Directrices alimentarias y nutricionales para niños y jóvenes (de 2 a 18 años): Un documento de referencia ha constado de varias etapas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alcohol is not recommended for children or young people.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T142602Z" creationid="Zsuzsanna Tóth" creationdate="20230428T142602Z">

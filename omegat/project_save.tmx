@@ -142,10 +142,36 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not give children less than 13 years of age coffee or tea.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T164751Z" creationid="sansi" creationdate="20230519T164751Z">
+        <seg>No de café o té a niños menores de 13 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Drink plenty of water during the day.</seg>
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230429T093130Z" creationid="mgr26" creationdate="20230429T093130Z">
         <seg>Beba bastante agua durante el día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eat a variety of foods from each of the four major food groups each day:
+vegetables and fruit, including different colours and textures
+breads and cereals, increasing wholegrain products as children increase in age
+milk and milk products or suitable alternatives, preferably reduced or low-fat options
+lean meat, poultry, fish, shellfish, eggs, legumes, nuts and seeds.*
+2.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T164720Z" creationid="sansi" creationdate="20230519T164720Z">
+        <seg>Comer variedad de comidas de los cuatro grandes grupos de comidas cada día:
+verduras y frutas de diferentes colores y texturas
+panes y cereales, aumentando la ingesta de productos integrales conforme aumentan en edad
+leche y productos lácteos o alternativas adecuadas, preferiblemente opciones bajas en grasa
+carne magra, carne de aves de corral, pescado, marisco huevos, legumbres, frutos secos y semillas. [*	No de comida dura o en trozos muy pequeños como frutos secos o semilla grandes hasta que el niño tenga al menos cinco años para reducir el riesgo de ahogo (consulte sección 1.3: Resumen de grupos de comidas, tamaño de las porciones e ingesta recomendada).]*
+2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +188,14 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T143315Z" creationid="Zsuzsanna Tóth" creationdate="20230428T143315Z">
         <seg>Comer con familia y allegados tan a menudo como sea posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Eat regularly over the day, that is, have breakfast, lunch and dinner, and include in- between snacks for young children or if hungry.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T164708Z" creationid="sansi" creationdate="20230519T164708Z">
+        <seg>Coma regularmente durante el dia, esto es, tomar desayuno, comida y cena incluyendo snacks entre horas para adolescentes si tienen hambre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +220,14 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T143504Z" creationid="Zsuzsanna Tóth" creationdate="20230428T143504Z">
         <seg>Animar a los niños y a los jóvenes involucrarse en la compra, en la cultivación y en la elaboración de las comidas familiares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Energy drinks or energy shots are not recommended for children or young people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T164747Z" creationid="sansi" creationdate="20230519T164747Z">
+        <seg>Las bebidas energéticas no son recomendables para niños o adolescentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -267,6 +309,14 @@ type 2 diabetes and many cancers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If young people (13 years and older) choose to drink coffee or tea, limit to one to two cups per day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T164754Z" creationid="sansi" creationdate="20230519T164754Z">
+        <seg>Si los adolescentes (de 13 años o mayor) elige beber café o té, limitar la ingesta a una o dos tazas al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In addition to providing many nutrients, most vegetables and fruit are low in energy and contribute to satiety (feeling of abdominal fullness after eating), so may help people maintain a healthy weight.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T143935Z" creationid="sansi" creationdate="20230428T143935Z">
@@ -311,6 +361,14 @@ type 2 diabetes and many cancers.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230510T001529Z" creationid="sansi" creationdate="20230510T000506Z">
         <seg>La carne magra, las aves, el marisco, los huevos, las legumbres, los frutos secos* y las semillas aportan energía, proteínas, grasas (usualmente saturadas en la carne; mayoritariamente no saturadas en el marisco, los frutos secos* y las semillas), hidratos de carbono (especialmente en las legumbres), vitaminas (B12, niacina, tiamina) y minerales (hierro, zinc, selenio, magnesio, potasio, fósforo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Limit drinks such as fruit juice, cordial, fruit drink, fizzy drinks (including diet drinks), sports drinks and sports water.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T164743Z" creationid="sansi" creationdate="20230519T164743Z">
+        <seg>Limite bebidas tales como zumos de frutas, bebidas de frutas, bebidas gaseosas (incluso las que son sin azúcar) y bebidas isotónicas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -365,6 +423,20 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T144152Z" creationid="sansi" creationdate="20230428T144152Z">
         <seg>Plantas comestibles como las frutas y las verduras tienen una amplitud de diferentes compuestos que ayudan a tener una mejor salud.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prepare foods or choose pre-prepared foods, snacks and drinks that are:
+low in fat, especially saturated fat
+low in sugar, especially added sugar
+low in salt (if using salt, use iodised salt).</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230519T164736Z" creationid="sansi" creationdate="20230519T164736Z">
+        <seg>Prepare comidas o elija comidas precocinadas, snacks y bebidas que son:
+bajas en grasa, especialmente grasas saturadas
+bajas en azucas, especialmente azúcares añadidos
+bajas en sal (en caso de usar sal, mejor sal yodada).</seg>
       </tuv>
     </tu>
     <tu>

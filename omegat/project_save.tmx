@@ -166,6 +166,20 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dr Don Mackie
+Chief Medical Officer
+Clinical Leadership, Protection and Regulation Business Unit
+Ministry of Health</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T193644Z" creationid="Zsuzsanna Tóth" creationdate="20230519T193644Z">
+        <seg>Dr. Don Mackie
+Médico Jefe
+Unidad de Liderazgo Clínico, Protección y Regulación
+Ministerio de Sanidad </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Drink plenty of water during the day.</seg>
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230429T093130Z" creationid="mgr26" creationdate="20230429T093130Z">
@@ -282,6 +296,14 @@ Las Guías de Alimentación y Nutrición se refieren a los cuatro grupos de alim
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230507T162746Z" creationid="Zsuzsanna Tóth" creationdate="20230507T160748Z">
         <seg>Por ejemplo, elija kebabs, wraps, pizza con mucha verdura y poco queso, platos asiáticos de arroz o fideos no fritos con mucha verdura, sushi, o algunas opciones de panecillos rellenos calientes para llevar, pasta con salsas a base de tomate o patatas asadas con carne, alubias y ensalada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, new sections outline considerations for selected population subgroups, the influence of environmental factors on food choice, and related topics such as physical activity and oral health.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T192943Z" creationid="Zsuzsanna Tóth" creationdate="20230519T192943Z">
+        <seg>Por ejemplo, en nuevas secciones se exponen consideraciones relativas a determinados subgrupos de población, la influencia de los factores ambientales en la elección de alimentos y temas relacionados, como la actividad física y la salud bucodental.</seg>
       </tuv>
     </tu>
     <tu>

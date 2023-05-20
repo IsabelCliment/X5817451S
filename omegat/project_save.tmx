@@ -15,6 +15,18 @@ The development of the Food and Nutrition Guidelines for Children and Young Peop
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aim
+This background paper:
+details up-to-date nutrition and physical activity policy based on current evidence considered for the New Zealand context.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Objetivo
+Este documento de referencia
+detalla la política actualizada en materia de nutrición y actividad física basada en pruebas actuales consideradas para el contexto neozelandés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alcohol is not recommended for children or young people.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T142602Z" creationid="Zsuzsanna Tóth" creationdate="20230428T142602Z">
@@ -43,6 +55,22 @@ The development of the Food and Nutrition Guidelines for Children and Young Peop
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230429T063539Z" creationid="Zsuzsanna Tóth" creationdate="20230429T063539Z">
         <seg>Como se detalla a continuación, cada uno de los cuatro grupos de alimento es importante por una razón diferente y cada uno proporciona una gama de nutrientes esenciales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At 31 December 2009, there were over 1 million (1,021,630) children and young people aged 2–18 years, representing 24 percent of the total population (Statistics New Zealand 2010).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>A 31 de diciembre de 2009, había más de 1 millón (1.021.630) de niños y jóvenes de entre 2 y 18 años, lo que representa el 24% de la población total (Statistics New Zealand 2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Based on total response ethnicity from the 2006 Census (and noting that those selecting more than one ethnic group are counted in all groups so percentages do not total 100), 72 percent of children and young people were European, 23 percent were Māori, 12 percent were Pacific and 10 percent were Asian.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Sobre la base de la etnia total de respuesta del Censo de 2006 (y teniendo en cuenta que los que seleccionan más de un grupo étnico se cuentan en todos los grupos, por lo que los porcentajes no suman 100), el 72% de los niños y jóvenes eran europeos, el 23% maoríes, el 12% del Pacífico y el 10% asiáticos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -143,6 +171,14 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Children and young people represent a substantial proportion of the New Zealand population (Figure 1).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Los niños y los jóvenes representan una proporción sustancial de la población neozelandesa (Figura 1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Citation: Ministry of Health.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T184759Z" creationid="Zsuzsanna Tóth" creationdate="20230519T184759Z">
@@ -159,10 +195,28 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments and recommendations (including some additional references) from the submissions were considered and further specialist input was sought to produce the final document.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Se tuvieron en cuenta los comentarios y recomendaciones (incluidas algunas referencias adicionales) de las propuestas y se solicitó la opinión de otros especialistas para elaborar el documento final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Commercially frozen vegetables and fruit are usually picked at their prime and ‘snap frozen’ so they should retain many of their nutrients.</seg>
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230518T163845Z" creationid="mgr26" creationdate="20230518T163845Z">
         <seg>Las verduras y frutas congeladas comercialmente suelen recogerse en su mejor momento y congelarse a presión, por lo que conservan muchos de sus nutrientes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Description of the population
+For the purposes of this background paper, ‘children and young people’ are those aged from 2 to 18 years.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Descripción de la población
+A efectos del presente documento de referencia, se entiende por "niños y jóvenes" las personas de edades comprendidas entre los 2 y los 18 años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -193,6 +247,14 @@ Ministerio de Sanidad </seg>
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230429T093130Z" creationid="mgr26" creationdate="20230429T093130Z">
         <seg>Beba bastante agua durante el día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>During the public consultation 44 submissions were received from individuals and organisations representing the public and personal health sector, industry, non-governmental organisations, academic and research sector, education and training sector and Crown agencies.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Durante la consulta pública se recibieron 44 propuestas de particulares y organizaciones que representaban al sector de la salud pública y personal, la industria, las organizaciones no gubernamentales, el sector académico y de investigación, el sector de la educación y la formación y las agencias de la Corona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -301,6 +363,14 @@ Las Guías de Alimentación y Nutrición se refieren a los cuatro grupos de alim
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For children and young people with special dietary requirements, this advice should be adapted by a dietitian or appropriate health practitioner.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>En el caso de niños y jóvenes con necesidades dietéticas especiales, estos consejos deben ser adaptados por un dietista o un profesional sanitario adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, choose kebabs, wraps, pizza with lots of vegetables and minimal cheese, non-fried Asian rice or noodles dishes with lots of vegetables, sushi, or some takeaway hot-filled bread roll choices, pasta with tomato-based sauces or baked potatoes with meat, beans and salad.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230507T162746Z" creationid="Zsuzsanna Tóth" creationdate="20230507T160748Z">
@@ -313,6 +383,14 @@ Las Guías de Alimentación y Nutrición se refieren a los cuatro grupos de alim
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T192943Z" creationid="Zsuzsanna Tóth" creationdate="20230519T192943Z">
         <seg>Por ejemplo, en nuevas secciones se exponen consideraciones relativas a determinados subgrupos de población, la influencia de los factores ambientales en la elección de alimentos y temas relacionados, como la actividad física y la salud bucodental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the World Health Organization (WHO) defines young people as those aged 10–24 years.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Por ejemplo, la Organización Mundial de la Salud (OMS) define a los jóvenes como aquellos con edades comprendidas entre los 10 y los 24 años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -363,6 +441,14 @@ La salud y el bienestar de nuestros niños y jóvenes son extremadamente importa
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230518T163827Z" creationid="mgr26" creationdate="20230518T163827Z">
         <seg>Las verduras y frutas frescas, congeladas o en conserva suelen ser buenas opciones dietéticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Further development of the document by the Nutrition and Physical Activity Policy Team at the Ministry of Health produced the Food and Nutrition Guidelines for Healthy Children and Young People (Aged 2–18 Years): A background paper – draft for consultation, which was published in October 2010.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>El equipo de políticas de nutrición y actividad física del Ministerio de Sanidad desarrolló el documento Directrices alimentarias y nutricionales para niños y jóvenes sanos (de 2 a 18 años): A background paper - draft for consultation, que se publicó en octubre de 2010.</seg>
       </tuv>
     </tu>
     <tu>
@@ -432,10 +518,49 @@ type 2 diabetes and many cancers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initially the following stakeholders provided feedback on the proposed structure and content of the background paper: Dietitians New Zealand, the Paediatric Society of New Zealand, Public Health Nurses, Plunket, the Home Economics &amp; Technology Teachers’ Association of New Zealand, Te Hotu Manawa Māori, the Pacific Island Food and Nutrition Advisory Group (PIFNAG), the Asian Health Foundation and the Health Sponsorship Council.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230520T092158Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Inicialmente, las siguientes partes interesadas aportaron sus comentarios sobre la estructura y el contenido propuestos para el documento de referencia: dietistas de Nueva Zelanda, la Sociedad Pediátrica de Nueva Zelanda, enfermeras de Salud Pública, Plunket, la Asociación de Profesores de Economía Doméstica y Tecnología de Nueva Zelanda, Te Hotu Manawa Māori, el Grupo Asesor sobre Alimentación y Nutrición de las Islas del Pacífico (PIFNAG), la Fundación Asiática para la Salud y el Consejo de Patrocinio Sanitario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Introduction
+Food and Nutrition Guidelines for Healthy Children and Young People (Aged 2–18 Years): A background paper is one in a series of population-specific background papers on food and nutrition.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Introducción
+Directrices sobre alimentación y nutrición para niños y jóvenes sanos (de 2 a 18 años): Un documento de referencia forma parte de una serie de documentos de referencia específicos sobre alimentación y nutrición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It also provides information to support the development of strategic policy that aims to achieve and maintain the best possible health for New Zealand’s children and young people
+presents reliable and detailed background information for health practitioners who provide nutrition advice and develop nutrition programmes (including dietitians, nutritionists, doctors, nurses, primary care providers, health promoters and teachers)
+provides the basis for developing health education resources that focus on this age group and that are intended for use by the general public
+provides information on current dietary patterns, nutrient intake, nutritional status, body size, physical activity and sedentary behaviour patterns in New Zealand children and young people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>También proporciona información para apoyar el desarrollo de una política estratégica destinada a lograr y mantener la mejor salud posible para los niños y jóvenes de Nueva Zelanda. presenta información de base fiable y detallada para los profesionales de la salud que proporcionan asesoramiento nutricional y desarrollan programas de nutrición (incluidos dietistas, nutricionistas, médicos, enfermeros, proveedores de atención primaria, promotores de salud y profesores)
+proporciona la base para desarrollar recursos de educación sanitaria centrados en este grupo de edad y destinados al público en general
+proporciona información sobre las pautas alimentarias actuales, la ingesta de nutrientes, el estado nutricional, el tamaño corporal, la actividad física y las pautas de comportamiento sedentario de los niños y jóvenes neozelandeses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the synergistic effect of this mixture of protective compounds that provides the benefit.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T144406Z" creationid="sansi" creationdate="20230428T144406Z">
         <seg>El origen del beneficio es el efecto sinergético de la mezcla de compuestos protectores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jenny Heyward, Rhonda Ackroyd and Dr Jan Sinclair reviewed the allergy section in Part 12.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Jenny Heyward, Rhonda Ackroyd y el Dr. Jan Sinclair revisaron la sección sobre alergias de la Parte 12.</seg>
       </tuv>
     </tu>
     <tu>
@@ -472,6 +597,14 @@ type 2 diabetes and many cancers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maria Turley wrote the draft background paper, with technical advice and input from Dr Cliona Ni Mhurchu, Delvina Gorton, Helen Eyles and Dr Andrew Jull.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Maria Turley redactó el borrador del documento de referencia, con el asesoramiento técnico y las aportaciones de la Dra. Cliona Ni Mhurchu, Delvina Gorton, Helen Eyles y el Dr. Andrew Jull.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Meals and snacks should be limited to a maximum of six over the day.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230509T142000Z" creationid="Zsuzsanna Tóth" creationdate="20230509T142000Z">
@@ -494,6 +627,14 @@ Cualquier persona puede atragantarse pero los niños menores de cinco años tien
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230509T134135Z" creationid="Zsuzsanna Tóth" creationdate="20230509T134135Z">
         <seg>La mayoría de las personas comen diariamente a horas determinadas (p. ej., desayuno, almuerzo, cena).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the advice in this paper is intended to apply to healthy children and young people who have no special dietary requirements.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Tenga en cuenta que los consejos de este documento están destinados a niños y jóvenes sanos que no tienen necesidades dietéticas especiales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -658,10 +799,50 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tammy Kaiwai, Soana Muimuiheata and Pratibha Balu provided specialist input to the meal plans in Appendix 5.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Tammy Kaiwai, Soana Muimuiheata y Pratibha Balu hicieron aportaciones especializadas a los planes de comidas del apéndice 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Te Hotu Manawa Māori provided information for Part 9: Considerations for Tamariki and Rangatahi Māori and Their Whānau.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Te Hotu Manawa Māori proporcionó información para la Parte 9: Consideraciones para Tamariki y Rangatahi Māori y sus Whānau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Clinical Trials Research Unit at the University of Auckland prepared the initial draft of the Food and Nutrition Guidelines for Children and Young People: A background paper for the Ministry of Health during 2009 and early 2010.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>La Unidad de Investigación de Ensayos Clínicos de la Universidad de Auckland elaboró el borrador inicial de las Directrices sobre Alimentación y Nutrición para Niños y Jóvenes: A background paper para el Ministerio de Sanidad durante 2009 y principios de 2010.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Food and Nutrition Guidelines for Healthy Children and Young People (Aged 2–18 Years): A background paper (2012) provides the information to educate and encourage children, young people and their families or whānau to follow healthy lifestyles.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T191457Z" creationid="Zsuzsanna Tóth" creationdate="20230519T191457Z">
         <seg>Las Directrices sobre alimentación y nutrición para niños y jóvenes sanos (de 2 a 18 años): Documento de referencia (2012) proporciona la información necesaria para educar y animar a los niños, jóvenes y sus familias o allegados a seguir estilos de vida saludables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Ministry of Health is grateful to all who contributed to this document, including those who made submissions during the public consultation process.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>El Ministerio de Sanidad agradece a todos los que han contribuido a este documento, incluidos los que hicieron aportaciones durante el proceso de consulta pública.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The age of adolescence varies, in terms of both onset and maturity.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>La edad de la adolescencia varía, tanto en su inicio como en su madurez.</seg>
       </tuv>
     </tu>
     <tu>
@@ -690,10 +871,34 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The initial draft then underwent external peer review by Dr Clare Wall, Kate Sladden, Kathy Hamilton, Eruera Maxted (Part 9 on Māori), PIFNAG (Part 10 on Pacific peoples), Geeta Gala (Part 11 on Asian and ‘Other’ peoples) and the Ministry of Agriculture and Forestry (topics related to food safety).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>A continuación, el borrador inicial fue sometido a una revisión externa por pares por parte de la Dra. Clare Wall, Kate Sladden, Kathy Hamilton, Eruera Maxted (Parte 9 sobre los maoríes), PIFNAG (Parte 10 sobre los pueblos del Pacífico), Geeta Gala (Parte 11 sobre los pueblos asiáticos y "otros") y el Ministerio de Agricultura y Silvicultura (temas relacionados con la seguridad alimentaria).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The intake of processed meats needs to be limited.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230510T000432Z" creationid="sansi" creationdate="20230510T000432Z">
         <seg>Es necesario limitar la ingesta de carnes procesadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The population groups targeted in other papers are healthy infants and toddlers; adults; older people; and pregnant and breastfeeding women.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Los grupos de población a los que se dirigen los otros documentos son lactantes y niños pequeños sanos; adultos; personas mayores; y mujeres embarazadas y en período de lactancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The term ‘preschoolers’ refers to children aged from two years up until their fifth birthday.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>El término "preescolares" se refiere a los niños de entre dos años y cinco años.</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +919,14 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These definitions may differ to those used elsewhere.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Estas definiciones pueden diferir de las utilizadas en otros lugares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These practitioners include nurses, dietitians, doctors, nutritionists, health promoters and educators.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T192545Z" creationid="Zsuzsanna Tóth" creationdate="20230519T192545Z">
@@ -726,6 +939,14 @@ Este documento está disponible en www.health.govt.nz</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T192427Z" creationid="Zsuzsanna Tóth" creationdate="20230519T192427Z">
         <seg>Su objetivo es proporcionar asesoramiento e información técnica actualizados y basados en pruebas a los profesionales de la salud que trabajan con niños y jóvenes (de 2 a 18 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This background paper encompasses adolescence, which is defined (physiologically) as the period between puberty and when reproductive organs are mature.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Este documento de referencia abarca la adolescencia, que se define (fisiológicamente) como el periodo comprendido entre la pubertad y la madurez de los órganos reproductores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -803,6 +1024,22 @@ Las verduras y las frutas proporcionan energía, carbohidratos, fibra dietética
       <tuv lang="es" changeid="mgr26" changedate="20230518T171618Z" creationid="mgr26" creationdate="20230518T171618Z">
         <seg>
 ¿Qué son los cereales integrales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When referred to separately, ‘children’ are those aged 2–12 years, while ‘young people’ are those aged 13–18 years.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Cuando se hace referencia a ellos por separado, los "niños" son los que tienen entre 2 y 12 años, mientras que los "jóvenes" son los que tienen entre 13 y 18 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>While it is acknowledged that some aspects of growth and development continue beyond 18 years of age and into the early 20s, young people aged 19 years and over are covered in the Food and Nutrition Guidelines for Healthy Adults: A background paper (Ministry of Health 2003a).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Aunque se reconoce que algunos aspectos del crecimiento y el desarrollo continúan después de los 18 años y hasta los 20, los jóvenes a partir de 19 años están cubiertos en las Directrices alimentarias y nutricionales para adultos sanos: A background paper (Ministerio de Sanidad 2003a).</seg>
       </tuv>
     </tu>
     <tu>

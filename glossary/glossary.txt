@@ -1,3 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 Acknowledgements	Reconocimientos
 Guidelines	Directrices
+A background paper	Documento de referencia

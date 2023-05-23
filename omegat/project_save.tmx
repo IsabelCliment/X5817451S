@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>*	Do not give small, hard foods such as whole nuts and large seeds until children are at least 5 years old to reduce the risk of choking.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T164607Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
+        <seg>No dar alimentos pequeños y duros, como frutos secos enteros y semillas grandes, hasta que los niños tengan al menos 5 años, para reducir el riesgo de atragantamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A portion size refers to the amount of food offered at a single eating occasion.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T101553Z" creationid="Usuario" creationdate="20230430T101553Z">
+        <seg>El tamaño de una porción se refiere a la cantidad de alimentos que se proporciona para una ocasión de comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Acknowledgements 
 The development of the Food and Nutrition Guidelines for Children and Young People (Aged 2–18 Years): A background paper has involved a number of stages.</seg>
       </tuv>
@@ -171,6 +187,14 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Children and young people need a nutritious breakfast every day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230512T153317Z" creationid="OmegaT Aligner" creationdate="20230512T153317Z">
+        <seg>Los niños y jóvenes necesitan un desayuno nutritivo todos los días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Children and young people represent a substantial proportion of the New Zealand population (Figure 1).</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
@@ -207,6 +231,14 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230518T163845Z" creationid="mgr26" creationdate="20230518T163845Z">
         <seg>Las verduras y frutas congeladas comercialmente suelen recogerse en su mejor momento y congelarse a presión, por lo que conservan muchos de sus nutrientes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Consumption tends to decrease with increasing age.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230512T153317Z" creationid="OmegaT Aligner" creationdate="20230512T153317Z">
+        <seg>El consumo tiende a disminuir con el aumento de la edad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -317,10 +349,34 @@ lean meat, poultry, fish, shellfish, eggs, legumes, nuts and seeds.*
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encourage a healthy lunch every day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230512T153317Z" creationid="OmegaT Aligner" creationdate="20230512T153317Z">
+        <seg>Fomentar un almuerzo saludable todos los días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encourage children and young people to be involved in shopping, growing and cooking family meals.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T143504Z" creationid="Zsuzsanna Tóth" creationdate="20230428T143504Z">
         <seg>Animar a los niños y a los jóvenes involucrarse en la compra, en la cultivación y en la elaboración de las comidas familiares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encourage nutritious family/whānau dinners, during which everyone eats together.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230512T165331Z" creationid="Usuario" creationdate="20230512T165331Z">
+        <seg>Fomenta las cenas familiares/whānau nutritivas, durante las cuales todos coman juntos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encourage school boards to actively promote and sell healthy food and drinks through their canteens or tuckshops.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230512T165141Z" creationid="Usuario" creationdate="20230512T165141Z">
+        <seg>Anime a las juntas escolares a promover activamente y vender comidas y bebidas saludables en los comedores o las cantinas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -371,6 +427,14 @@ Las Guías de Alimentación y Nutrición se refieren a los cuatro grupos de alim
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, although it is recommended that children consume two standard servings of milk and milk products each day, they can meet this requirement by consuming the following portions: half a glass of milk with breakfast cereal, 75 g yoghurt as a morning snack, 20 g of cheese with lunch, and half a glass of milk with dinner.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T102202Z" creationid="Usuario" creationdate="20230430T102202Z">
+        <seg>Por ejemplo, aunque se recomienda que los niños consuman dos raciones estándar de leche y productos lácteos cada día, pueden satisfacer este requisito con el consumo de las siguientes porciones: medio vaso de leche con cereales del desayuno, 75 g de yogur como aperitivo por la mañana, 20 g de queso para la comida del medio día y medio vaso de leche a la hora de cenar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, choose kebabs, wraps, pizza with lots of vegetables and minimal cheese, non-fried Asian rice or noodles dishes with lots of vegetables, sushi, or some takeaway hot-filled bread roll choices, pasta with tomato-based sauces or baked potatoes with meat, beans and salad.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230507T162746Z" creationid="Zsuzsanna Tóth" creationdate="20230507T160748Z">
@@ -383,6 +447,22 @@ Las Guías de Alimentación y Nutrición se refieren a los cuatro grupos de alim
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T192943Z" creationid="Zsuzsanna Tóth" creationdate="20230519T192943Z">
         <seg>Por ejemplo, en nuevas secciones se exponen consideraciones relativas a determinados subgrupos de población, la influencia de los factores ambientales en la elección de alimentos y temas relacionados, como la actividad física y la salud bucodental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, nutrient intake will depend on whether people choose the healthiest options within food groups (eg, wholegrain breads and cereals, low-fat and reduced-fat milk and milk products, and lean meats, legumes, etc) and how they prepare and cook the food.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T163223Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
+        <seg>Por ejemplo, la ingesta de nutrientes dependerá de si las personas eligen las opciones más saludables dentro de los grupos de alimentos (p. ej., panes y cereales integrales, leche y productos lácteos desnatados o semidesnatados, y carnes magras, legumbres, etc.) y de cómo preparan y cocinan los alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, one standard serving of milk and milk products is a 250 ml glass of milk, a 150 g pottle of yoghurt, or two slices (40 g) of cheese.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T100722Z" creationid="Usuario" creationdate="20230430T100722Z">
+        <seg>Por ejemplo, una porción estándar de leche y productos lácteos en un vaso de 250 ml, o una tarrina de yogur de 150 g o dos lonchas (40 g) de queso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,10 +550,26 @@ type 2 diabetes and many cancers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, the total number of servings can be consumed in smaller portions during the day.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T101347Z" creationid="Usuario" creationdate="20230430T101347Z">
+        <seg>Sin embargo el número total de las porciones puede consumirse en porciones más pequeñas durante el día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If vegetable or fruit juice or dried fruit is consumed, it contributes up to one serving only of the total recommended number of servings for this food group so that additional servings of fresh, frozen or canned vegetables and fruit are still required to meet recommendations.</seg>
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230518T164013Z" creationid="mgr26" creationdate="20230518T164013Z">
         <seg>Si se consumen zumos de verdura o fruta o fruta deshidratada, sólo aportan hasta una ración del número total de raciones recomendadas para este grupo de alimentos, por lo que siguen siendo necesarias raciones adicionales de verdura y fruta fresca, congelada o en conserva para cumplir las recomendaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If vegetable/fruit juice or dried fruit is consumed, it contributes a maximum of only one serving of the total recommended number of servings for this food group.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T164316Z" creationid="Usuario" creationdate="20230523T164316Z">
+        <seg>Si se consume zumo de verdura/fruta o fruta deshidratada, sólo aporta como máximo una ración del total de raciones recomendadas para este grupo de alimentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -597,6 +693,22 @@ proporciona información sobre las pautas alimentarias actuales, la ingesta de n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Limit high fat, sugar and salt (HFSS) foods and drinks to occasional (less than once a week) consumption only.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230512T170429Z" creationid="Usuario" creationdate="20230512T170429Z">
+        <seg>Limite los alimentos y bebidas con alto contenido de grasa, azúcar y sal (HFSS, por sus siglas en inglés) al consumo ocasional (menos de una vez por semana).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Many factors other than the number of servings from each food group will influence the total energy and nutrient intake of the diet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T163223Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
+        <seg>Muchos otros factores, además del número de raciones de cada grupo de alimentos, influirán en la ingesta total de energía y nutrientes de la dieta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Maria Turley wrote the draft background paper, with technical advice and input from Dr Cliona Ni Mhurchu, Delvina Gorton, Helen Eyles and Dr Andrew Jull.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230520T092440Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
@@ -639,10 +751,36 @@ Cualquier persona puede atragantarse pero los niños menores de cinco años tien
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notes:
+^	The Ministry of Health recommends choosing vegetables and fruit that are fresh, frozen or canned.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T164223Z" creationid="Usuario" creationdate="20230523T164030Z">
+        <seg>Notas:
+^ El Ministerio de Sanidad recomienda elegir verduras y frutas frescas, congeladas o en conserva. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Offer food that matches their chewing and grinding ability.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230519T152427Z" creationid="sansi" creationdate="20230519T152427Z">
         <seg>Ofrecezca comida de acuerdo con sus habilidades para masticar y moler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Offer mainly healthy and nutritious snacks.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230512T165633Z" creationid="Usuario" creationdate="20230512T165633Z">
+        <seg>Ofrezca principalmente aperitivos saludables y nutritivos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only around two-thirds of young people eat lunch on four or more school days.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230512T165013Z" creationid="Usuario" creationdate="20230512T165013Z">
+        <seg>Solo alrededor de dos tercios de los jóvenes almuerzan cuatro o más días de escuela..</seg>
       </tuv>
     </tu>
     <tu>
@@ -735,6 +873,14 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Servings of fresh, frozen and canned vegetables and fruit are still required to meet the recommendations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T164521Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
+        <seg>Las raciones de verduras y frutas frescas, congeladas y en conserva siguen siendo necesarias para cumplir las recomendaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Similarly significant growth and, for some, relatively high activity levels can increase energy and nutrient requirements for young people.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230507T145446Z" creationid="OmegaT Aligner" creationdate="20230507T145446Z">
@@ -783,10 +929,169 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Standard serving sizes were developed as part of the report Food for Health (Department of Health 1991).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T094046Z" creationid="Usuario" creationdate="20230430T094046Z">
+        <seg>Los tamaños estándares se elaboraron como parde del informe Food for Health (Departamento de Sanidad 1991).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Starchy root vegetables (eg, potatoes, kūmara and taro) are important sources of carbohydrate in the New Zealand diet.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T143738Z" creationid="sansi" creationdate="20230428T143626Z">
         <seg>Los tubérculos con almidón (ej. patatas, kūmara y taro) son fuentes importantes de carbohidratos en la dieta de Nueva Zelanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Summary of food groups, serving sizes and recommended intakes
+Table 1 shows the four food groups, specific foods included in each group, the minimum number of servings of each group recommended for healthy children and young people, and examples of standard serving sizes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T163520Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
+        <seg>Resumen de los grupos de alimentos, tamaños de las raciones e ingestas recomendadas
+La Tabla 1 muestra los cuatro grupos de alimentos, los alimentos específicos incluidos en cada grupo, el número mínimo de raciones de cada grupo recomendadas para niños y jóvenes sanos y ejemplos de tamaños de raciónes estándar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table 1 gives more information on recommended intakes of lean meat, poultry, seafood, eggs, legumes, nuts and seeds, including descriptions of serving sizes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T163223Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
+        <seg>En la Tabla 1 se ofrece más información sobre las ingestas recomendadas de carne magra, aves, marisco, huevos, legumbres, frutos secos y semillas, incluyendo descripciones de los tamaños de las raciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Table 1: Food groups, specific foods in each group, advice and serving size examples
+Food group
+Specific foods included
+Recommendation (per day)
+Serving size examples
+Vegetables and fruit
+All vegetables and fruit, including potatoes, kūmara and taro
+Vegetables and fruit – fresh, frozen or canned
+If consumed, only one serving of no-sugar-added fruit juice or dried fruit can count as contributing a serving to the recommended dietary intake1
+Preschoolers: at least 2 servings of vegetables and at least 2 servings of fruit
+Children: at least 3 servings of vegetables and at least 2 servings of fruit
+Young people: at least 3 servings of vegetables and at least 2 servings of fruit
+1 medium potato or kūmara (135 g)
+½ cup cooked vegetables (eg, broccoli, peas, corn, spinach, pūhā) (50–80 g)
+1 carrot (75 g)
+½ cup salad (60 g)
+1 tomato (80 g)
+½ avocado (80 g)
+1 apple, pear, banana or orange (130 g)
+2 small apricots or plums (100 g)
+½ cup fresh fruit salad (120 g)
+½ cup stewed or canned fruit (135 g)
+1 cup no-added-sugar fruit juice (250 ml)^
+Breads and cereals
+All breads, cereals, rice and pasta (increasing wholegrain options as children age)
+Preschoolers: at least 4 servings
+Children: at least 5 servings
+Young people: at least 6 servings
+1 medium slice of bread (26 g)
+1 roll (50 g)
+1 pita pocket or tortilla
+(50–80 g)
+2 breakfast wheat biscuits (34 g)
+½ cup muesli (55 g)
+½ cup porridge (130 g)
+1 cup cornflakes (30 g)
+1 cup cooked pasta or rice (150 g)
+4 grainy crackers (40 g)
+2 plain sweet biscuits (14 g)
+1 cup plain popcorn
+Milk and milk products
+Milk (includes calcium-fortified milk alternatives), cheese and yoghurt (choose low-fat options)
+Preschoolers and children: at least 2–3 servings
+Young people: at least 3 servings
+Glass of milk or calcium-fortified milk alternative (250 ml)
+Pottle of yoghurt (150 g)
+2 slices of cheese (40 g)
+Lean meat, poultry, seafood, eggs, legumes, nuts and seeds*
+Lean meat, poultry, seafood, eggs, legumes (eg, peas, beans, lentils), nuts and seeds*
+(Limit processed meats)
+Preschoolers and children: at least 1–2 servings
+Young people: at least 2 servings
+Vegetarians:
+Preschoolers (2–5 years): at least 1–2 servings
+School children (5–12 years): at least 2 servings
+Young people (13–18 years): at least 3 servings
+2 slices of cooked meat (100 g)
+¾ cup of mince or casserole (195 g)
+1 medium fish fillet (100 g)
+1 chicken leg or 2 drumsticks (110 g)
+1 medium pāua or kina (100–120 g)
+1 egg (50 g)
+½ can tuna or salmon (90 g)
+¾ cup dried cooked beans, peas or lentils (135 g)
+1/3 cup nuts or seeds* (50 g)</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T171821Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
+        <seg>Tabla 1. Grupos de alimentos, alimentos específicos de cada grupo, consejos y ejemplos de tamaños de raciónes
+Grupo de alimentos
+Alimentos específicos incluidos
+Recomendación (por día)
+Ejemplos de raciones
+Verduras y frutas
+Todas las hortalizas y frutas, incluidas las patatas, boniato "kūmara" y el taro
+Verduras y frutas frescas, congeladas o en conserva
+Si se consumen, sólo una ración de zumo de fruta sin azúcar añadido o de frutos secos puede contar como contribución de una ración a la ingesta alimentaria recomendada1
+Preescolares: al menos 2 raciones de verdura y al menos 2 raciones de fruta
+Niños: al menos 3 raciones de verdura y 2 de fruta
+Jóvenes: al menos 3 raciones de verdura y al menos 2 raciones de fruta
+1 patata mediana o boniato (135 g)
+½ bol de verduras cocidas (por ejemplo, brécol, guisantes, maíz, espinacas, hierba "pūhā") (50-80 g)
+1 zanahoria (75 g)
+½ bol de ensalada (60 g)
+1 tomate (80 g)
+½ aguacate (80 g)
+1 manzana, pera, plátano o naranja (130 g)
+2 albaricoques pequeños o ciruelas (100 g)
+½ taza de macedonia de fruta fresca (120 g)
+½ taza de fruta guisada o en conserva (135 g)
+1 taza de zumo de fruta sin azúcar añadido (250 ml)^. Pan y cereales
+Todos los panes, cereales, arroz y pasta (aumentando las opciones integrales a medida que los niños crecen)
+Preescolares: al menos 4 raciones
+Niños: al menos 5 raciones
+Jóvenes: al menos 6 raciones
+1 rebanada de pan mediana (26 g)
+1 panecillo (50 g)
+1 bolsillo de pita o tortilla
+(50-80 g)
+2 galletas de trigo para el desayuno (34 g)
+½ taza de muesli (55 g)
+½ taza de gachas de avena (130 g)
+1 taza de copos de maíz (30 g)
+1 taza de pasta cocida o arroz (150 g)
+4 galletas de grano (40 g)
+2 galletas dulces (14 g)
+1 taza de palomitas de maíz
+Leche y productos lácteos
+Leche (incluidas las alternativas fortificadas con calcio), queso y yogur (elija opciones bajas en grasa)
+Preescolares y niños: al menos 2-3 raciones
+Jóvenes: al menos 3 raciones
+Vaso de leche o alternativa a la leche enriquecida con calcio (250 ml)
+Pote de yogur (150 g)
+2 lonchas de queso (40 g)
+Carne magra, aves, marisco, huevos, legumbres, frutos secos y semilla.Carne magra, aves, marisco, huevos, legumbres (p. ej., guisantes, alubias, lentejas), frutos secos y semillas*. (Limite las carnes procesadas)
+Preescolares y niños: al menos 1-2 raciones
+Jóvenes: al menos 2 raciones
+Vegetarianos:
+Preescolares (2-5 años): al menos 1-2 raciones
+Escolares (5-12 años): al menos 2 raciones
+Jóvenes (13-18 años): al menos 3 raciones
+2 trozos de carne cocida (100 g)
+¾ bol de carne picada o guisada (195 g)
+1 filete de pescado mediano (100 g)
+1 muslo de pollo o 2 muslos (110 g)
+1 caracol marino "pāua" o erizo de mar "kina" mediano (100-120 g)
+1 huevo (50 g)
+½ lata de atún o salmón (90 g)
+¾ taza de judías, guisantes o lentejas secas cocidas (135 g)
+1/3 taza de frutos secos o semillas* (50 g)</seg>
       </tuv>
     </tu>
     <tu>
@@ -831,6 +1136,14 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Ministry of Health developed standard serving sizes for use when providing advice about the amount of food to eat from each food group to meet energy and nutrient requirements.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T093715Z" creationid="Usuario" creationdate="20230430T092905Z">
+        <seg>El Ministerio de Sanidad ha desarollado el tamaño estandar de las porciones para prestar asesoramiento sobre la cantidad de alimientos de cada grupo que se tiene que comer para satisfacer las necesidades energéticas y de nutrientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Ministry of Health is grateful to all who contributed to this document, including those who made submissions during the public consultation process.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
@@ -851,6 +1164,16 @@ Este documento está disponible en www.health.govt.nz</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230512T163243Z" creationid="Zsuzsanna Tóth" creationdate="20230512T163243Z">
         <seg>La relación entre saltarse el desayuno y el sobrepeso/obesidad no parece explicarse por la ingesta de energía, por lo que el consumo del desayuno puede ser un marcador de otras conductas dietéticas y de actividad física saludables (Rampersaud et al 2005; de la Hunty y Ashwell 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The difference between recommended serving size and portion size
+Although standard serving sizes are designed to provide consistent advice on food and nutrition, in some instances the standard serving size seems large for younger children.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T100522Z" creationid="Usuario" creationdate="20230430T100203Z">
+        <seg>La diferencia entre el tamaño de la porción recomendada y tamaño estándar.
+Aunque los tamaños estándar de las porciones están elaborados para ofrecer consejos adecuados sobre alimentación y nutrición, en algunos casos el tamaño estándar de la porción parece elevado para los niños.</seg>
       </tuv>
     </tu>
     <tu>
@@ -895,6 +1218,14 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The standard serving sizes are used for all population groups covered by the Food and Nutrition Guidelines series, regardless of age or nutrient requirements, but the number of servings varies.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T095703Z" creationid="Usuario" creationdate="20230430T095703Z">
+        <seg>Los tamaños estándares de las porciones se utilizan para todos los grupos incluidos en la serie de Guías Alimentarias y Nutricionales, sin tener en cuenta la edad o las necesidades nutricionales, pero el número de porciones puede variar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The term ‘preschoolers’ refers to children aged from two years up until their fifth birthday.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
@@ -931,6 +1262,14 @@ Este documento está disponible en www.health.govt.nz</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T192545Z" creationid="Zsuzsanna Tóth" creationdate="20230519T192545Z">
         <seg>Entre estos profesionales se incluyen enfermeras, dietistas, médicos, nutricionistas, promotores de salud y educadores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These serving sizes were intended to reflect usual serving sizes based on the 1989 Life in New Zealand Survey, and to be convenient in terms of the forms of food that are readily available (eg, whole piece of fruit, pottle of yoghurt).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230430T094924Z" creationid="Usuario" creationdate="20230430T094924Z">
+        <seg>Los tamaños de las porciones intentaron reflejar los tamaños habituales basados en la encuesta sobre la Vida en Nueva Zelanda de 1989, y oportunos en términos de alimentos disponibles (por ejemplo, la pieza entera de frutam, una tarrina de yogur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -989,6 +1328,14 @@ Always make sure young children sit down while they eat, and that an adult is wi
       <tuv lang="es" changeid="sansi" changedate="20230519T163051Z" creationid="sansi" creationdate="20230519T163051Z">
         <seg>Para reducir el riesgo de asfixia por comida en niños:
 Asegúrese de que los niños siempre están sentados a la hora de comer, y que un adulto está con ellos mientras comen o beben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total energy, sugar and fat content will increase if higher fat and sugar options of the food groups are chosen or if fat and sugar are added during preparation and cooking.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T163223Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
+        <seg>El contenido total de energía, azúcares y grasas aumentará si se eligen las opciones más grasas y azucaradas de los grupos de alimentos o si se añaden grasas y azúcares durante la preparación y la cocción.</seg>
       </tuv>
     </tu>
     <tu>

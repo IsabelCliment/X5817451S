@@ -794,6 +794,18 @@ proporciona información sobre las pautas alimentarias actuales, la ingesta de n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lean meat, poultry, seafood, eggs, legumes, nuts and seeds*
+According to the 2002 National Children’s Nutrition Survey:
+one in two children and young people (51%) consumed two or more servings of meat, fish, poultry and eggs each day (Ministry of Health 2003b).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T182036Z" creationid="Usuario" creationdate="20230523T182036Z">
+        <seg>Carne magra, aves, marisco, huevos, legumbres, frutos secos y semillas*.
+Según la Encuesta Nacional de Nutrición Infantil de 2002
+uno de cada dos niños y jóvenes (51%) consumía dos o más raciones de carne, pescado, aves y huevos al día (Ministerio de Sanidad 2003b). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Lean meat, poultry, seafood, eggs, legumes, nuts* and seeds provide energy, protein, fats (more often saturated in meat; mostly unsaturated in seafood, nuts* and seeds), carbohydrate (especially from legumes), vitamins (B12, niacin, thiamin) and minerals (iron, zinc, selenium, magnesium, potassium, phosphorus).</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230510T001529Z" creationid="sansi" creationdate="20230510T000506Z">
@@ -1499,6 +1511,22 @@ Always make sure young children sit down while they eat, and that an adult is wi
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T145045Z" creationid="sansi" creationdate="20230428T145045Z">
         <seg>Puede encontrar información útil sobre frutas y verduras en la página de 5+ A Day, www.5aday.co.nz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Vegetables and fruit
+In 2008/09:
+40 percent of 5–24 year olds reported they met the recommendation for vegetable intake (three or more servings each day)
+69 percent reported they met the recommendation for fruit intake (two or more servings each day)
+the proportion of children and young people who reported meeting the recommendation for fruit intake declined with age but there was no clear age-related pattern with vegetable intake (Clinical Trials Research Unit and Synovate 2010a).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T181915Z" creationid="Usuario" creationdate="20230523T181915Z">
+        <seg>Verduras y frutas
+En 2008/09
+El 40% de los jóvenes de 5 a 24 años declararon cumplir la recomendación de ingesta de verduras (tres o más raciones al día).
+el 69% declaró cumplir la recomendación de ingesta de fruta (dos o más raciones al día)
+la proporción de niños y jóvenes que declararon cumplir la recomendación de ingesta de fruta disminuyó con la edad, pero no hubo un patrón claro relacionado con la edad en el caso de la ingesta de verdura (Clinical Trials Research Unit y Synovate 2010a).</seg>
       </tuv>
     </tu>
     <tu>

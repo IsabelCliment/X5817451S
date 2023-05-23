@@ -271,6 +271,14 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Continuous eating or ‘grazing’ is not recommended.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T184618Z" creationid="Usuario" creationdate="20230523T184618Z">
+        <seg>No se recomienda comer continuamente o picotear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Description of the population
 For the purposes of this background paper, ‘children and young people’ are those aged from 2 to 18 years.</seg>
       </tuv>
@@ -954,11 +962,10 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
 Summary
 Three meals and two to three small snacks, at regular times during the day, are recommended for children and young people.</seg>
       </tuv>
-      <tuv lang="es" changeid="Usuario" changedate="20230523T182933Z" creationid="Usuario" creationdate="20230523T182933Z">
-        <seg>Part 2: Meal patterns of New Zealand children and young people
-Summary
-Three meals and two to three small snacks, at regular times during the day, are recommended for children and young people.
-</seg>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T183030Z" creationid="Usuario" creationdate="20230523T182933Z">
+        <seg>Parte 2: Pautas alimentarias de los niños y jóvenes neozelandeses
+Resumen
+Se recomiendan tres comidas y dos o tres pequeños tentempiés, a horas regulares durante el día, para niños y jóvenes. </seg>
       </tuv>
     </tu>
     <tu>

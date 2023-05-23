@@ -75,6 +75,14 @@ detalla la política actualizada en materia de nutrición y actividad física ba
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Around 10 percent of New Zealand children and young people do not eat breakfast regularly.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T184851Z" creationid="Usuario" creationdate="20230523T184851Z">
+        <seg>Alrededor del 10% de los niños y jóvenes neozelandeses no desayunan con regularidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As foods are generally consumed in combination (ie, more than one food group at a time) and not necessarily in standard serving sizes, it is difficult to calculate intake of each food group to compare with the recommendations.</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230523T182245Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
@@ -203,6 +211,14 @@ Eating breakfast is associated with a range of positive health outcomes, includi
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230512T162612Z" creationid="Zsuzsanna Tóth" creationdate="20230512T162612Z">
         <seg>Desayuno
 Desayunar está asociado con una variedad de resultados positivos para la salud, que incluyen una mejor ingesta de nutrientes y un peso corporal saludable (Rampersaud et al 2005; de la Hunty y Ashwell 2007).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breakfast consumption by parents and caregivers, and the availability of breakfast foods are important determinants of regular breakfast consumption.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T184942Z" creationid="Usuario" creationdate="20230523T184942Z">
+        <seg>El consumo de desayuno por parte de los padres y cuidadores, y la disponibilidad de alimentos para el desayuno son elementos importantes del consumo regular de desayuno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -421,6 +437,14 @@ lean meat, poultry, fish, shellfish, eggs, legumes, nuts and seeds.*
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230512T165141Z" creationid="Usuario" creationdate="20230512T165141Z">
         <seg>Anime a las juntas escolares a promover activamente y vender comidas y bebidas saludables en los comedores o las cantinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Encourage those who skip breakfast because of lack of time to take ‘portable’ food from home to eat on their way to school (eg, banana, peanut butter sandwich).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T185421Z" creationid="Usuario" creationdate="20230523T185421Z">
+        <seg>Animar a los que no desayunan por falta de tiempo a que se lleven comida en táper de casa para comer de camino al colegio (por ejemplo, plátano, sándwich de mantequilla de cacahuete).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1082,6 +1106,14 @@ Este documento está disponible en www.health.govt.nz</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230512T163523Z" creationid="Zsuzsanna Tóth" creationdate="20230512T163523Z">
         <seg>Saltarse el desayuno puede tener un efecto adverso sobre la función cognitiva también (incluida la memoria), el rendimiento académico, la asistencia a la escuela, la función psicosocial y el estado de ánimo en niños y jóvenes (Pollitt y Matthews 1998; Rampersaud et al 2005).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skipping breakfast may impact negatively on cognitive function, academic performance, school attendance, psychosocial function and mood in children and young people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T184757Z" creationid="Usuario" creationdate="20230523T184757Z">
+        <seg>Saltarse el desayuno puede repercutir negativamente en la función cognitiva, el rendimiento académico, la asistencia a clase, la función psicosocial y el estado de ánimo de niños y jóvenes.</seg>
       </tuv>
     </tu>
     <tu>

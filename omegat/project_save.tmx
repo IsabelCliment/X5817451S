@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>(See Appendix 7 for a summary of these surveys.)</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>(Véase un resumen de estas encuestas en el apéndice 7).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>*	Do not give small, hard foods such as whole nuts and large seeds until children are at least 5 years old to reduce the risk of choking.</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230523T164607Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
@@ -63,6 +71,14 @@ detalla la política actualizada en materia de nutrición y actividad física ba
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230507T163147Z" creationid="OmegaT Aligner" creationdate="20230507T145446Z">
         <seg>En el apéndice 5 se presentan ejemplos de planes de comidas de tres días para niños y jóvenes de edades de 2-3 años, 4-8 años, 9-13 años y 14-18 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As foods are generally consumed in combination (ie, more than one food group at a time) and not necessarily in standard serving sizes, it is difficult to calculate intake of each food group to compare with the recommendations.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>Dado que los alimentos suelen consumirse de forma combinada (es decir, más de un grupo de alimentos a la vez) y no necesariamente en raciones de tamaño estándar, resulta difícil calcular la ingesta de cada grupo de alimentos para compararla con las recomendaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139,6 +155,18 @@ To reduce the risk of choking on these foods, you can:
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T144027Z" creationid="Zsuzsanna Tóth" creationdate="20230428T144027Z">
         <seg>Hacer actividad física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breads and cereals
+In 2008/09:
+nearly all 5–19 year olds ate bread every day, with approximately half (49%) eating brown, wholemeal or wholegrain bread most often, and the remainder eating white bread (43%), high-fibre white (7%) or other bread (1%) (Clinical Trials Research Unit and Synovate 2010a).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>Pan y cereales
+En 2008/09
+casi todos los niños de 5 a 19 años comían pan todos los días; aproximadamente la mitad (49%) consumía pan integral, integral o de grano entero con más frecuencia, y el resto, pan blanco (43%), blanco con alto contenido en fibra (7%) u otro tipo de pan (1%) (Clinical Trials Research Unit y Synovate 2010a).</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,6 +447,18 @@ Las Guías de Alimentación y Nutrición se refieren a los cuatro grupos de alim
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For background information see section 12.3: Food-related choking in young children aged 2–5 years and the Ministry of Health website www.health.govt.nz
+Current intakes
+The recommended intakes of the four food groups provide a guide to the types and amounts of foods required to meet the recommended intake requirements for nutrients.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>Para más información, véase el apartado 12.3: Atragantamientos relacionados con la comida en niños pequeños de 2 a 5 años y la página web del Ministerio de Sanidad www.health.govt.nz
+Ingestas actuales
+Las ingestas recomendadas de los cuatro grupos de alimentos proporcionan una guía de los tipos y cantidades de alimentos necesarios para satisfacer los requisitos de ingesta recomendada de nutrientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For children and young people with special dietary requirements, this advice should be adapted by a dietitian or appropriate health practitioner.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
@@ -475,10 +515,30 @@ Las Guías de Alimentación y Nutrición se refieren a los cuatro grupos de alim
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For information on choking first aid and cardiopulmonary resuscitation (CPR), see your Well Child Tamariki Ora Health Book or the Ministry of Health website www.health.govt.nz
+For more information on food related choking see the Ministry of Health website www.health.govt.nz
+*	These are foods that can squash into the shape of a child’s throat and get stuck there.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T181504Z" creationid="Usuario" creationdate="20230523T181504Z">
+        <seg>Para obtener información sobre primeros auxilios en caso de atragantamiento y reanimación cardiopulmonar (RCP), consulte la cartilla de salud Well Child Tamariki Ora o el sitio web del Ministerio de Sanidad www.health.govt.nz.
+Para más información sobre atragantamientos relacionados con los alimentos, consulte el sitio web del Ministerio de Sanidad www.health.govt.nz
+* Son alimentos que pueden aplastarse en la garganta del niño y quedarse atascados allí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For more information see section 12.1: Vegetarian eating).</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230510T000559Z" creationid="sansi" creationdate="20230510T000559Z">
         <seg>Para más información, véase el apartado 12.1: Alimentación vegetariana).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For some food groups the only information available relates to how often selected foods are consumed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>Para algunos grupos de alimentos, la única información disponible se refiere a la frecuencia con la que se consumen determinados alimentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +666,63 @@ type 2 diabetes and many cancers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the 2008/09 NZ Adult Nutrition Survey:
+4 percent of males and 8 percent of females aged 15–18 years reported never consuming red meat or not doing so within the previous four weeks
+most 15–18 year olds reported having red meat either three to four times a week (43%) or one to two times a week (33%)
+most 15–18 year olds reported having chicken either one to two times a week (49%) or three to four times a week (30%)
+most 15–18 year olds reported consuming fresh or frozen seafood (fish or shellfish) either never or not within the previous four weeks (52%), or less than once a week (24%)
+most 15–18 year olds reported consuming canned fish either never or not within the previous four weeks (72%), or less than once a week (16%)
+36 percent of 15–18 year olds reported having processed meat one to two times per week and 28 percent reported consuming it three to four times per week.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>En la Encuesta de Nutrición de Adultos de NZ de 2008/09
+el 4% de los varones y el 8% de las mujeres de 15 a 18 años declararon no haber consumido nunca carne roja o no haberlo hecho en las cuatro semanas anteriores
+la mayoría de los jóvenes de 15 a 18 años declararon consumir carne roja de tres a cuatro veces por semana (43%) o de una a dos veces por semana (33%)
+la mayoría de los jóvenes de 15 a 18 años declaran comer pollo entre una y dos veces por semana (49%) o entre tres y cuatro veces por semana (30%)
+La mayoría de los jóvenes de 15 a 18 años declaran consumir marisco fresco o congelado (pescado o marisco) nunca o no en las últimas cuatro semanas (52%), o menos de una vez a la semana (24%). la mayoría de los jóvenes de 15 a 18 años declararon consumir pescado en conserva nunca o no en las cuatro semanas anteriores (72%), o menos de una vez a la semana (16%)
+el 36% de los jóvenes de 15-18 años declararon consumir carne procesada de una a dos veces por semana y el 28% de tres a cuatro veces por semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the 2008/09 NZ Adult Nutrition Survey:
+50 percent of males and 49 percent of females aged 15–18 years reported they ate white bread
+44 percent of males and 48 percent of females aged 15–18 years reported they ate light or heavy grain bread (University of Otago and Ministry of Health 2011).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>En la Encuesta de Nutrición de Adultos de NZ de 2008/09
+el 50% de los varones y el 49% de las mujeres de entre 15 y 18 años declararon que comían pan blanco
+el 44% de los varones y el 48% de las mujeres de 15 a 18 años declararon que comían pan de grano ligero o pesado (Universidad de Otago y Ministerio de Sanidad 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the 2008/09 NZ Adult Nutrition Survey:
+51 percent of males and 62 percent of females aged 15–18 years reported they had three or more servings of vegetables per day
+61 percent of males and 65 percent of females aged 15–18 years reported they had two or more servings of fruit per day (University of Otago and Ministry of Health 2011).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>En la Encuesta de Nutrición de Adultos de Nueva Zelanda de 2008/09
+el 51% de los varones y el 62% de las mujeres de entre 15 y 18 años declararon consumir tres o más raciones de verdura al día
+el 61% de los hombres y el 65% de las mujeres de 15 a 18 años declararon consumir dos o más raciones de fruta al día (Universidad de Otago y Ministerio de Sanidad 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the 2008/09 NZ Adult Nutrition Survey:
+61 percent of males and 51 percent of females aged 15–18 years reported they drank whole or homogenised milk
+33 percent of males and 39 percent of females aged 15–18 years reported they drank either reduced-fat, skim or trim milk
+only 2 percent of males and 6 percent of females aged 15–18 years reported they drank no milk (University of Otago and Ministry of Health 2011).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>En la Encuesta de Nutrición de Adultos de Nueva Zelanda de 2008/09:
+el 61% de los varones y el 51% de las mujeres de entre 15 y 18 años declararon que bebían leche entera u homogeneizada
+el 33% de los varones y el 39% de las mujeres de 15 a 18 años declararon que bebían leche descremada, desnatada o semidescremada
+solo el 2% de los varones y el 6% de las mujeres de 15 a 18 años declararon no beber leche (Universidad de Otago y Ministerio de Sanidad, 2011).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include reduced or low-fat milk every day.</seg>
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230429T093211Z" creationid="mgr26" creationdate="20230429T093211Z">
@@ -725,6 +842,22 @@ proporciona información sobre las pautas alimentarias actuales, la ingesta de n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Milk and milk products
+In 2008/09:
+nearly two-thirds (64%) of 5–19 year olds drank unflavoured milk at least once a week, including 26 percent who drank unflavoured milk seven or more times a week
+the proportion of children and young people drinking unflavoured milk decreased as age increased
+overall, 21 percent of 5–19 year olds never drank unflavoured milk, with females more likely than males to never drink unflavoured milk (Clinical Trials Research Unit and Synovate 2010b).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>Leche y productos lácteos
+En 2008/09
+casi dos tercios (64%) de los jóvenes de 5 a 19 años bebían leche sin sabor al menos una vez a la semana, incluido el 26% que bebía leche sin sabor siete o más veces a la semana
+la proporción de niños y jóvenes que beben leche sin sabor disminuye a medida que aumenta la edad
+en general, el 21% de los niños de 5 a 19 años no bebía nunca leche sin aromatizar, siendo las mujeres más propensas que los hombres a no beber nunca leche sin aromatizar (Clinical Trials Research Unit y Synovate 2010b).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Minimising the risk of food related choking in young children
 People can choke on food at any age but children under five years of age are at higher risk of choking, with children under three years of age at greatest risk.</seg>
       </tuv>
@@ -781,6 +914,14 @@ Cualquier persona puede atragantarse pero los niños menores de cinco años tien
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230512T165013Z" creationid="Usuario" creationdate="20230512T165013Z">
         <seg>Solo alrededor de dos tercios de los jóvenes almuerzan cuatro o más días de escuela..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Parents and caregivers need to learn choking first aid and CPR.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>Los padres y cuidadores deben aprender primeros auxilios en caso de atragantamiento y reanimación cardiopulmonar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,6 +1323,20 @@ Aunque los tamaños estándar de las porciones están elaborados para ofrecer co
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T194411Z" creationid="Zsuzsanna Tóth" creationdate="20230519T194411Z">
         <seg>El documento final es el resultado de las aportaciones que muchas personas y organizaciones han realizado a lo largo de este proceso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following summaries provide an indication of current intakes in New Zealand based on what can be established from these surveys:
+2002 National Children’s Nutrition Survey (Ministry of Health 2003b)
+2008/09 National Survey of Children and Young People’s Physical Activity and Dietary Behaviours in New Zealand (Clinical Trials Research Unit and Synovate 2010a and 2010b)
+2008/09 New Zealand (NZ) Adult Nutrition Survey (University of Otago and Ministry of Health 2011).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>Los siguientes resúmenes proporcionan una indicación de la ingesta actual en Nueva Zelanda basada en lo que puede establecerse a partir de estas encuestas:
+Encuesta Nacional de Nutrición Infantil 2002 (Ministerio de Sanidad 2003b)
+2008/09 National Survey of Children and Young People's Physical Activity and Dietary Behaviours in New Zealand (Unidad de Investigación de Ensayos Clínicos y Synovate 2010a y 2010b)
+2008/09 New Zealand (NZ) Adult Nutrition Survey (University of Otago and Ministry of Health 2011).</seg>
       </tuv>
     </tu>
     <tu>

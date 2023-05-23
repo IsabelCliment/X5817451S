@@ -77,8 +77,8 @@ detalla la política actualizada en materia de nutrición y actividad física ba
       <tuv lang="en">
         <seg>As foods are generally consumed in combination (ie, more than one food group at a time) and not necessarily in standard serving sizes, it is difficult to calculate intake of each food group to compare with the recommendations.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
-        <seg>Dado que los alimentos suelen consumirse de forma combinada (es decir, más de un grupo de alimentos a la vez) y no necesariamente en raciones de tamaño estándar, resulta difícil calcular la ingesta de cada grupo de alimentos para compararla con las recomendaciones.</seg>
+      <tuv lang="es" changeid="Usuario" changedate="20230523T182245Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>Dado que los alimentos suelen consumirse de forma combinada (es decir, más de un tipo de comida a la vez) y no necesariamente en raciones de tamaño estándar, resulta difícil calcular la ingesta de cada grupo de alimentos para compararla con las recomendaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,9 +674,9 @@ most 15–18 year olds reported consuming fresh or frozen seafood (fish or shell
 most 15–18 year olds reported consuming canned fish either never or not within the previous four weeks (72%), or less than once a week (16%)
 36 percent of 15–18 year olds reported having processed meat one to two times per week and 28 percent reported consuming it three to four times per week.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+      <tuv lang="es" changeid="Usuario" changedate="20230523T182123Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
         <seg>En la Encuesta de Nutrición de Adultos de NZ de 2008/09
-el 4% de los varones y el 8% de las mujeres de 15 a 18 años declararon no haber consumido nunca carne roja o no haberlo hecho en las cuatro semanas anteriores
+el 4% de los hombres y el 8% de las mujeres de 15 a 18 años declararon no haber consumido nunca carne roja o no haberlo hecho en las cuatro semanas anteriores
 la mayoría de los jóvenes de 15 a 18 años declararon consumir carne roja de tres a cuatro veces por semana (43%) o de una a dos veces por semana (33%)
 la mayoría de los jóvenes de 15 a 18 años declaran comer pollo entre una y dos veces por semana (49%) o entre tres y cuatro veces por semana (30%)
 La mayoría de los jóvenes de 15 a 18 años declaran consumir marisco fresco o congelado (pescado o marisco) nunca o no en las últimas cuatro semanas (52%), o menos de una vez a la semana (24%). la mayoría de los jóvenes de 15 a 18 años declararon consumir pescado en conserva nunca o no en las cuatro semanas anteriores (72%), o menos de una vez a la semana (16%)

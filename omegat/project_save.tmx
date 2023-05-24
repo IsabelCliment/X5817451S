@@ -294,6 +294,14 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Continuous eating or ‘grazing’ is not recommended as it prevents saliva from neutralising acids in the mouth and remineralising tooth enamel between eating occasions (see section 13.2: Oral health).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230524T142311Z" creationid="Zsuzsanna Tóth" creationdate="20230524T142311Z">
+        <seg>No se recomienda comer o "picar entre horas" continuamente, ya que evita que la saliva neutralice los ácidos en la boca y remineralice el esmalte dental entre las comidas (consulte la sección 13.2: Salud bucal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Continuous eating or ‘grazing’ is not recommended.</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230523T184618Z" creationid="Usuario" creationdate="20230523T184618Z">

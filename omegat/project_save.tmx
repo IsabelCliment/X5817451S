@@ -843,8 +843,8 @@ Proporciona información sobre las pautas alimentarias actuales, la ingesta de n
       <tuv lang="en">
         <seg>It generally means the entire grain seed or kernel is intact and so includes the bran, germ and endosperm.</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
-        <seg>Generalmente significa que toda la semilla o grano está intacta y por lo tanto incluye el salvado, germen y endospermo.</seg>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230524T150217Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Generalmente significa que toda la semilla o grano está intacta y, por lo tanto, incluye el salvado, germen y endospermo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1604,6 +1604,14 @@ Encuesta Nacional de Nutrición Infantil 2002 (Ministerio de Sanidad 2003b)
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230524T135611Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
         <seg>El término "preescolares" se refiere a los niños de entre dos y cinco años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There is no widely accepted definition of the term wholegrain (Cummings and Stephen 2007).</seg>
+      </tuv>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230524T150048Z" creationid="Zsuzsanna Tóth" creationdate="20230524T150048Z">
+        <seg>No existe una definición ampliamente aceptada del término "integral" (Cummings y Stephen 2007).</seg>
       </tuv>
     </tu>
     <tu>

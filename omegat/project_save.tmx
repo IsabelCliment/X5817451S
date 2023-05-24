@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A kernel that has been cracked, crushed, flaked or milled can only be described as wholegrain if it retains the same relative proportions of bran, germ and endosperm found in the original grain.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Una almendra que haya sido agrietada, triturada, desconchada o molida solo podrá calificarse de grano entero si conserva las mismas proporciones relativas de salvado, germen y endospermo que el grano original.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A portion size refers to the amount of food offered at a single eating occasion.</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230430T101553Z" creationid="Usuario" creationdate="20230430T101553Z">
@@ -50,10 +58,26 @@ Este documento de referencia detalla la política actualizada en materia de nutr
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aim to increase the proportion of breads and cereals that are wholegrain as children get older.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Procura aumentar la proporción de panes y cereales integrales a medida que los niños crecen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alcohol is not recommended for children or young people.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T142602Z" creationid="Zsuzsanna Tóth" creationdate="20230428T142602Z">
         <seg>El alcohol no es recomendado ni para niños ni para jóvenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All types of milk and milk products (eg, yoghurt, cheese) from all animal sources (eg, cow, goat) are included in this food group.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Todos los tipos de leche y productos lácteos (p. ej., yogur, queso) de todas las fuentes animales (p. ej., vaca, cabra) están incluidos en este grupo de alimentos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +250,14 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230523T184730Z" creationid="Usuario" creationdate="20230523T184730Z">
         <seg>El consumo de desayuno se asocia a una serie de resultados positivos, como una mejor ingesta de nutrientes y un peso corporal saludable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Breast milk is included for children being breastfed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>La leche materna está incluida para los niños que son amamantados.</seg>
       </tuv>
     </tu>
     <tu>
@@ -809,6 +841,14 @@ Proporciona información sobre las pautas alimentarias actuales, la ingesta de n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It generally means the entire grain seed or kernel is intact and so includes the bran, germ and endosperm.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Generalmente significa que toda la semilla o grano está intacta y por lo tanto incluye el salvado, germen y endospermo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the synergistic effect of this mixture of protective compounds that provides the benefit.</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T144406Z" creationid="sansi" creationdate="20230428T144406Z">
@@ -849,6 +889,16 @@ one in two children and young people (51%) consumed two or more servings of meat
         <seg>Carne magra, aves, marisco, huevos, legumbres, frutos secos y semillas*.
 Según la Encuesta Nacional de Nutrición Infantil de 2002
 uno de cada dos niños y jóvenes (51%) consumía dos o más raciones de carne, pescado, aves y huevos al día (Ministerio de Sanidad 2003b). </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lean meat, poultry, seafood, eggs, legumes, nuts and seeds*
+This food group includes lean meat (eg, beef, lamb, pork and venison), poultry (eg, chicken, turkey), seafood (eg, fish and shellfish), as well as other protein-rich foods such as eggs, legumes, nuts* and seeds.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Carne magra, aves, mariscos, huevos, legumbres, frutos secos y semillas*
+Este grupo de alimentos incluye carne magra (p. ej., carne de res, cordero, cerdo y venado), aves de corral (p. ej., pollo, pavo), mariscos (p. ej., pescado y mariscos), así como otros alimentos ricos en proteínas como huevos, legumbres, nueces* y semillas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -901,6 +951,14 @@ uno de cada dos niños y jóvenes (51%) consumía dos o más raciones de carne, 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Milk alternatives, such as soy and rice milk fortified with calcium and other nutrients, also belong to this food group.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Las alternativas lácteas, como la soja y la leche de arroz enriquecidas con calcio y otros nutrientes, también pertenecen a este grupo de alimentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Milk and milk products
 In 2008/09:
 nearly two-thirds (64%) of 5–19 year olds drank unflavoured milk at least once a week, including 26 percent who drank unflavoured milk seven or more times a week
@@ -913,6 +971,16 @@ En 2008/09
 casi dos tercios (64%) de los jóvenes de 5 a 19 años bebían leche sin sabor al menos una vez a la semana, incluido el 26% que bebía leche sin sabor siete o más veces a la semana
 la proporción de niños y jóvenes que beben leche sin sabor disminuye a medida que aumenta la edad
 en general, el 21% de los niños de 5 a 19 años no bebía nunca leche sin aromatizar, siendo las mujeres más propensas que los hombres a no beber nunca leche sin aromatizar (Clinical Trials Research Unit y Synovate 2010b).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Milk and milk products
+Milk and milk products provide energy, protein, fats (mostly saturated), vitamins (riboflavin, B12, A) and minerals (calcium, iodine, phosphorus, zinc).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Leche y productos lácteos
+La leche y los productos lácteos proporcionan energía, proteínas, grasas (en su mayoría saturadas), vitaminas (riboflavina, B12, A) y minerales (calcio, yodo, fósforo, zinc).</seg>
       </tuv>
     </tu>
     <tu>
@@ -935,10 +1003,26 @@ Cualquier persona puede atragantarse pero los niños menores de cinco años tien
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that older children and young people, particularly those who are highly active, will need more servings of breads and cereals to meet their energy requirements.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Tenga en cuenta que los niños mayores y los jóvenes, en particular los que son muy activos, necesitarán más raciones de pan y cereales para satisfacer sus necesidades energéticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the advice in this paper is intended to apply to healthy children and young people who have no special dietary requirements.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
         <seg>Tenga en cuenta que los consejos de este documento están destinados a niños y jóvenes sanos que no tienen necesidades dietéticas especiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that ‘wholegrain’ claims on food labels are currently unregulated and often misleading.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Obsérvese que las declaraciones sobre “cereales integrales” en las etiquetas de los alimentos no están reguladas actualmente y a menudo son engañosas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1077,6 +1161,46 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reduced or low- fat milk and milk products are the best choices because these foods include less saturated fat, and often more protein and calcium than high-fat alternatives.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>La leche y los productos lácteos bajos o bajos en grasa son las mejores opciones porque estos alimentos incluyen menos grasa saturada y, a menudo, más proteínas y calcio que las alternativas con alto contenido en grasa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refined cereals include white bread, cakes, muffins, sweet or savoury biscuits, pasta, white rice and refined grain breakfast cereals.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Los cereales refinados incluyen pan blanco, pasteles, magdalenas, galletas dulces o saladas, pasta, arroz blanco y cereales de desayuno de grano refinado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Refined grains have had most or all of the bran and germ removed, leaving only the endosperm, so they provide substantially fewer nutrients and less fibre.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>A los granos refinados se les ha eliminado la mayor parte o la totalidad del salvado y el germen, dejando solo el endospermo, por lo que proporcionan sustancialmente menos nutrientes y menos fibra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Table 1 for more information on recommended intakes of breads and cereals, including descriptions of serving sizes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Consulte la Tabla 1 para obtener más información sobre las ingestas recomendadas de panes y cereales, incluidas las descripciones de los tamaños de las porciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See Table 1 for more information on recommended intakes of milk and milk products, including descriptions of serving sizes.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Consulte la Tabla 1 para obtener más información sobre las ingestas recomendadas de leche y productos lácteos, incluidas las descripciones de los tamaños de las porciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See Table 1 for more information on recommended intakes of vegetables and fruit, including descriptions of serving sizes.</seg>
       </tuv>
       <tuv lang="es" changeid="mgr26" changedate="20230518T164054Z" creationid="mgr26" creationdate="20230518T164054Z">
@@ -1137,6 +1261,14 @@ Este documento está disponible en www.health.govt.nz</seg>
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T144251Z" creationid="sansi" creationdate="20230428T144251Z">
         <seg>Algunos de estos compuestos ya han dicho identificados (ej. fibra dietética, fitoquimicos) y otros aún están por descubrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Some plant milks contain significantly lower levels of nutrients (eg, energy, protein) than cow’s milk so should not be considered equivalent (see section 5.4: Sources of fluid in the diet).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Algunas leches vegetales contienen niveles significativamente más bajos de nutrientes (p. ej., energía, proteínas) que la leche de vaca, por lo que no deben considerarse equivalentes (ver sección 5.4: Fuentes de líquido en la dieta).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1388,6 +1520,14 @@ Jóvenes (13-18 años): al menos 3 raciones
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The bran and germ provide dietary fibre, vitamins and minerals; the endosperm provides carbohydrate and some protein.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>El salvado y el germen proporcionan fibra dietética, vitaminas y minerales; el endospermo proporciona hidratos de carbono y algunas proteínas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The difference between recommended serving size and portion size
 Although standard serving sizes are designed to provide consistent advice on food and nutrition, in some instances the standard serving size seems large for younger children.</seg>
       </tuv>
@@ -1512,6 +1652,14 @@ Encuesta Nacional de Nutrición Infantil 2002 (Ministerio de Sanidad 2003b)
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T192427Z" creationid="Zsuzsanna Tóth" creationdate="20230519T192427Z">
         <seg>Su objetivo es proporcionar asesoramiento e información técnica actualizados y basados en pruebas a los profesionales de la salud que trabajan con niños y jóvenes (de 2 a 18 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are particularly important for children and young people to ensure optimal bone health.</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Son especialmente importantes para que los niños y los jóvenes garanticen una salud ósea óptima.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1645,6 +1793,14 @@ Las verduras y las frutas proporcionan energía, carbohidratos, fibra dietética
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230510T001618Z" creationid="sansi" creationdate="20230510T000522Z">
         <seg>Aunque las legumbres, los frutos secos* y las semillas aportan muchas vitaminas y minerales importantes, en general contienen una considerable menor cantidad de proteínas por ración. (véase la Tabla 1) que la carne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wholegrain foods include the following foods and products: whole wheat, whole-wheat flour, wheat flakes, bulgur wheat, whole and rolled oats, oatmeal, oat flakes, brown rice, whole rye and rye flour, whole barley and popcorn (Cummings and Stephen 2007).</seg>
+      </tuv>
+      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+        <seg>Los alimentos integrales incluyen los siguientes alimentos y productos: trigo integral, harina de trigo integral, copos de trigo, trigo bulgur, avena entera y enrollada, avena, copos de avena, arroz integral, harina de centeno y centeno entero, cebada entera y palomitas de maíz (Cummings y Stephen 2007).</seg>
       </tuv>
     </tu>
     <tu>

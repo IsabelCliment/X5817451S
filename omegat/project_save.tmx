@@ -472,6 +472,14 @@ lean meat, poultry, fish, shellfish, eggs, legumes, nuts and seeds.*
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encourage healthier choices when the family/whānau is deciding on takeaways.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T124028Z" creationid="sansi" creationdate="20230525T124028Z">
+        <seg>Anime a la familia y allegados a elegir opciones más sanas a la hora de elegir comida para llevar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encourage nutritious family/whānau dinners, during which everyone eats together.</seg>
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230512T165331Z" creationid="Usuario" creationdate="20230512T165331Z">
@@ -516,8 +524,8 @@ lean meat, poultry, fish, shellfish, eggs, legumes, nuts and seeds.*
 (aged 2–18 years)
 A background paper</seg>
       </tuv>
-      <tuv lang="es" changeid="Usuario" changedate="20230524T145205Z" creationid="Zsuzsanna Tóth" creationdate="20230519T184908Z">
-        <seg>Directrices sobre alimentación y nutrición para niños y jóvenes sanos (de 2 a 18 años): Un documento de referenc</seg>
+      <tuv lang="es" changeid="sansi" changedate="20230525T123837Z" creationid="Zsuzsanna Tóth" creationdate="20230519T184908Z">
+        <seg>Directrices sobre alimentación y nutrición para niños y jóvenes sanos (de 2 a 18 años): Un documento de referencia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -692,6 +700,24 @@ La salud y el bienestar de nuestros niños y jóvenes son extremadamente importa
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T191251Z" creationid="Zsuzsanna Tóth" creationdate="20230519T191251Z">
         <seg>La buena nutrición y la actividad física adecuada son factores clave para la salud y el desarrollo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HFSS foods and drinks contributed to 20 percent of total energy intake for
+5–14 year olds which indicates healthier foods are being displaced in the diet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T124018Z" creationid="sansi" creationdate="20230525T124018Z">
+        <seg>Los alimentos y bebidas HFSS contribuyeron al 20 por ciento de la ingesta total de energía de los
+niños de 5 a 14 años, lo que indica que los alimentos más saludables están siendo desplazados en la dieta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HFSS foods and drinks generally provide very few vitamins and minerals relative to their energy content (ie, these foods are energy-dense and low in nutrients).</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T124013Z" creationid="sansi" creationdate="20230525T124013Z">
+        <seg>Los alimentos y bebidas HFSS generalmente proporciona muy pocas vitaminas y minerales en relación con su contenido energético (es decir, estos alimentos son densos en energía y bajos en nutrientes).</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,6 +965,14 @@ Este grupo de alimentos incluye carne magra (p. ej., carne de res, cordero, cerd
       </tuv>
       <tuv lang="es" changeid="Usuario" changedate="20230512T170429Z" creationid="Usuario" creationdate="20230512T170429Z">
         <seg>Limite los alimentos y bebidas con alto contenido de grasa, azúcar y sal (HFSS, por sus siglas en inglés) al consumo ocasional (menos de una vez por semana).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Limiting the consumption of HFSS foods and drinks can be difficult as they are widely available, often inexpensive and heavily marketed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T124034Z" creationid="sansi" creationdate="20230525T124034Z">
+        <seg>Limitar el consumo de alimentos y bebidas altos en grasas, azúcares y sal puede ser difícil, ya que están ampliamente disponibles, a menudo baratos y se comercializan mucho.</seg>
       </tuv>
     </tu>
     <tu>

@@ -982,6 +982,14 @@ Proporciona información sobre las pautas alimentarias actuales, la ingesta de n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its aim is to enhance the cultural competence of health practitioners working with Pacific peoples.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142131Z" creationid="sansi" creationdate="20230525T142131Z">
+        <seg>Su objetivo es mejorar la competencia cultural de los profesionales sanitarios que trabajan con los pueblos del Pacífico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Jenny Heyward, Rhonda Ackroyd and Dr Jan Sinclair reviewed the allergy section in Part 12.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230524T060021Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
@@ -1242,6 +1250,30 @@ Cualquier persona puede atragantarse pero los niños menores de cinco años tien
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Part 11: Considerations for Asian and other populations provides demographic information and a summary of nutrition and health issues for this diverse population group, which includes refugee and migrant population.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142149Z" creationid="sansi" creationdate="20230525T142149Z">
+        <seg>Parte 11: Consideraciones para la población asiática y otras poblaciones proporciona información demográfica y un resumen de los problemas de nutrición y salud de este grupo de población diverso, que incluye a la población refugiada y migrante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 12: Special Dietary Considerations provides information on vegetarian and vegan diets, food-related choking in young children, food allergy and intolerance, and pregnancy and breastfeeding for young women.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142218Z" creationid="sansi" creationdate="20230525T142218Z">
+        <seg>La parte 12: Consideraciones Dietéticas Especiales ofrece información sobre dietas vegetarianas y veganas, atragantamientos relacionados con la alimentación en niños pequeños, alergias e intolerancias alimentarias, y embarazo y lactancia en mujeres jóvenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 13: Other Issues provides information on a range of topics related to nutrition, including body image, disordered eating and eating disorders; dietary supplements; oral health; alcohol; food safety; food additives; intense (artificial) sweeteners and caffeine.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142313Z" creationid="sansi" creationdate="20230525T142313Z">
+        <seg>Parte 13: Otros temas ofrece información sobre una serie de temas relacionados con la nutrición, como la imagen corporal, los trastornos de la alimentación y los trastornos alimentarios; los complementos dietéticos; la salud bucodental; el alcohol; la seguridad alimentaria; los aditivos alimentarios; los edulcorantes intensos (artificiales) y la cafeína.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Part 1: New Zealand Food and Nutrition Guidelines
 1.1	The New Zealand Food and Nutrition Guideline Statements, including physical activity
 The New Zealand Food and Nutrition Guideline Statements for healthy children and young people are the key recommendations to ensure optimal growth and prevent nutritional deficiencies, obesity and diet-related chronic diseases.</seg>
@@ -1364,6 +1396,14 @@ low in salt (if using salt, use iodised salt).</seg>
 bajas en grasa, especialmente grasas saturadas
 bajas en azucas, especialmente azúcares añadidos
 bajas en sal (en caso de usar sal, mejor sal yodada).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Problems with eating such as picky eating, including neophobia (the rejection of new or unknown foods), are also discussed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142240Z" creationid="sansi" creationdate="20230525T142240Z">
+        <seg>También se tratan los problemas con la alimentación, como el picoteo, incluida la neofobia (rechazo de alimentos nuevos o desconocidos).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1951,6 +1991,14 @@ Encuesta Nacional de Nutrición Infantil 2002 (Ministerio de Sanidad 2003b)
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This background paper concludes with a glossary, list of abbreviations, appendices and list of references cited.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142332Z" creationid="sansi" creationdate="20230525T142332Z">
+        <seg>Este documento de referencia concluye con un glosario, una lista de abreviaturas, apéndices y una lista de referencias citadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This background paper encompasses adolescence, which is defined (physiologically) as the period between puberty and when reproductive organs are mature.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
@@ -2130,6 +2178,14 @@ Las verduras y las frutas proporcionan energía, carbohidratos, fibra dietética
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T145615Z" creationid="Zsuzsanna Tóth" creationdate="20230428T145615Z">
         <seg>pan y cereales
 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lean meat, poultry, seafood, eggs, legumes, nuts and seeds.*</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142403Z" creationid="sansi" creationdate="20230525T142403Z">
+        <seg>Carne magra, aves, marisco, huevos, legumbres, frutos secos y semillas.*</seg>
       </tuv>
     </tu>
     <tu>

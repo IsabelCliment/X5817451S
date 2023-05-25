@@ -1224,16 +1224,16 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
       <tuv lang="en">
         <seg>Part 1: New Zealand Food and Nutrition Guidelines presents the guideline statements that set out the key food, nutrition and physical activity recommendations for healthy children and young people.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230525T133937Z" creationid="sansi" creationdate="20230525T133937Z">
-        <seg>Parte 1: Las Directrices neozelandesas sobre Alimentación y Nutrición presentan las directrices que establecen las principales recomendaciones sobre alimentación, nutrición y actividad física para niños y jóvenes sanos.</seg>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134654Z" creationid="sansi" creationdate="20230525T133937Z">
+        <seg>Parte 1: Directrices neozelandesas sobre Alimentación y Nutrición presenta las directrices que establecen las principales recomendaciones sobre alimentación, nutrición y actividad física para niños y jóvenes sanos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Part 2: Meal Patterns of New Zealand Children and Young People presents information from New Zealand based studies illustrating the current meal patterns of children and young people along with recommendations for ideal meal patterns.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230525T134120Z" creationid="sansi" creationdate="20230525T134120Z">
-        <seg>Parte 2: Las Pautas Alimentarias de los Niños y Jóvenes neozelandeses presentan información procedente de estudios realizados en Nueva Zelanda que ilustran las pautas alimentarias actuales de niños y jóvenes, junto con recomendaciones sobre pautas alimentarias ideales.</seg>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134700Z" creationid="sansi" creationdate="20230525T134120Z">
+        <seg>Parte 2: Pautas Alimentarias de los Niños y Jóvenes neozelandeses presenta información procedente de estudios realizados en Nueva Zelanda que ilustran las pautas alimentarias actuales de niños y jóvenes, junto con recomendaciones sobre pautas alimentarias ideales.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1252,8 +1252,8 @@ Se recomiendan tres comidas y dos o tres pequeños tentempiés, a horas regulare
       <tuv lang="en">
         <seg>Part 3: Growth and Body Size provides information on growth, assessment of growth using growth charts, and current body size of New Zealand children, along with an overview of overweight, obesity and underweight.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230525T134511Z" creationid="sansi" creationdate="20230525T134511Z">
-        <seg>Parte 3: Las Tallas Corporales y de Crecimiento proporcionan información sobre el crecimiento, la evaluación del crecimiento mediante gráficas de crecimiento y de talla corporal de los niños neozelandeses actualmente, junto con una visión general del sobrepeso, la obesidad y el tener bajo peso.</seg>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134640Z" creationid="sansi" creationdate="20230525T134511Z">
+        <seg>Parte 3: Tallas Corporales y de Crecimiento proporciona información sobre el crecimiento, la evaluación del crecimiento mediante gráficas de crecimiento y de talla corporal de los niños neozelandeses actualmente, junto con una visión general del sobrepeso, la obesidad y el tener bajo peso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1262,6 +1262,30 @@ Se recomiendan tres comidas y dos o tres pequeños tentempiés, a horas regulare
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230525T134601Z" creationid="sansi" creationdate="20230525T134601Z">
         <seg>Parte 4: Energía y Nutrientes incluye información sobre la función de los nutrientes clave, los niveles recomendados de ingesta, los niveles actuales de ingesta, el estado de los nutrientes (cuando es posible) y las fuentes en la dieta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 5: Fluids provides information on the function of fluids, recommended intake, current fluid consumption patterns and sources in the diet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134631Z" creationid="sansi" creationdate="20230525T134631Z">
+        <seg>Parte 5: Líquidos proporciona información sobre la función de los líquidos, la ingesta recomendada, los patrones actuales de consumo de líquidos y las fuentes en la dieta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 6: The Home Environment and Its Influence on What Children and Young People Eat provides information on how family/whānau and related sociocultural and economic factors influence eating, including food and nutrient intake.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134803Z" creationid="sansi" creationdate="20230525T134803Z">
+        <seg>Parte 6: El Entorno Familiar y su Influencia en lo que Comen los Niños y los Jóvenes proporciona información sobre cómo la familia/whānau y los factores socioculturales y económicos relacionados influyen en la alimentación, incluida la ingesta de alimentos y nutrientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 7: The Wider Environment and Its Influence on What Families and Individuals Eat provides information on the impact of the social, cultural and economic environment beyond the family and whānau.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T141533Z" creationid="sansi" creationdate="20230525T141533Z">
+        <seg>Parte 7: El Entorno más Amplio y su Influencia en lo que Comen las Familias y las Personas ofrece información sobre el impacto del entorno social, cultural y económico más allá de la familia y el whānau.</seg>
       </tuv>
     </tu>
     <tu>

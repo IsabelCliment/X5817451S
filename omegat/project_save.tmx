@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A ‘Summary’ box is included at the beginning of most parts and major sections, which brings together the key points made in the part or section.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T133659Z" creationid="sansi" creationdate="20230525T133659Z">
+        <seg>Al principio de la mayoría de las partes y secciones principales se incluye un recuadro "Resumen" que reúne los puntos clave de la parte o sección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Acknowledgements 
 The development of the Food and Nutrition Guidelines for Children and Young People (Aged 2–18 Years): A background paper has involved a number of stages.</seg>
       </tuv>
@@ -1214,6 +1222,22 @@ El informe de pautas de nutrición y comida neozelandesa para niños y adolescen
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Part 1: New Zealand Food and Nutrition Guidelines presents the guideline statements that set out the key food, nutrition and physical activity recommendations for healthy children and young people.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T133937Z" creationid="sansi" creationdate="20230525T133937Z">
+        <seg>Parte 1: Las Directrices neozelandesas sobre Alimentación y Nutrición presentan las directrices que establecen las principales recomendaciones sobre alimentación, nutrición y actividad física para niños y jóvenes sanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 2: Meal Patterns of New Zealand Children and Young People presents information from New Zealand based studies illustrating the current meal patterns of children and young people along with recommendations for ideal meal patterns.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134120Z" creationid="sansi" creationdate="20230525T134120Z">
+        <seg>Parte 2: Las Pautas Alimentarias de los Niños y Jóvenes neozelandeses presentan información procedente de estudios realizados en Nueva Zelanda que ilustran las pautas alimentarias actuales de niños y jóvenes, junto con recomendaciones sobre pautas alimentarias ideales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Part 2: Meal patterns of New Zealand children and young people
 Summary
 Three meals and two to three small snacks, at regular times during the day, are recommended for children and young people.</seg>
@@ -1222,6 +1246,22 @@ Three meals and two to three small snacks, at regular times during the day, are 
         <seg>Parte 2: Pautas alimentarias de los niños y jóvenes neozelandeses
 Resumen
 Se recomiendan tres comidas y dos o tres pequeños tentempiés, a horas regulares durante el día, para niños y jóvenes. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 3: Growth and Body Size provides information on growth, assessment of growth using growth charts, and current body size of New Zealand children, along with an overview of overweight, obesity and underweight.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134511Z" creationid="sansi" creationdate="20230525T134511Z">
+        <seg>Parte 3: Las Tallas Corporales y de Crecimiento proporcionan información sobre el crecimiento, la evaluación del crecimiento mediante gráficas de crecimiento y de talla corporal de los niños neozelandeses actualmente, junto con una visión general del sobrepeso, la obesidad y el tener bajo peso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 4: Energy and Nutrients includes information on the function of key nutrients, recommended levels of intake, current levels of intake, nutrient status (where possible) and sources in the diet.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134601Z" creationid="sansi" creationdate="20230525T134601Z">
+        <seg>Parte 4: Energía y Nutrientes incluye información sobre la función de los nutrientes clave, los niveles recomendados de ingesta, los niveles actuales de ingesta, el estado de los nutrientes (cuando es posible) y las fuentes en la dieta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1847,6 +1887,14 @@ Encuesta Nacional de Nutrición Infantil 2002 (Ministerio de Sanidad 2003b)
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This part also outlines the four food groups and recommended number of servings.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T134008Z" creationid="sansi" creationdate="20230525T134008Z">
+        <seg>En esta parte también se describen los cuatro grupos de alimentos y el número de raciones recomendadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This population health document aims to promote health while also preventing obesity and diet-related chronic diseases.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T191913Z" creationid="Zsuzsanna Tóth" creationdate="20230519T191913Z">
@@ -1960,6 +2008,14 @@ Las verduras y las frutas proporcionan energía, carbohidratos, fibra dietética
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230519T182528Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
         <seg>Cuando se hace referencia a ellos por separado, los "niños" son los que tienen entre 2 y 12 años, mientras que los "jóvenes" son los que tienen entre 13 y 18 años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Where appropriate these ‘Summary’ boxes also contain practice points for health practitioners, which are specific to the topics discussed.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T133812Z" creationid="sansi" creationdate="20230525T133812Z">
+        <seg>Cuando procede, estos recuadros de "Resumen" también contienen puntos prácticos, específicos de los temas tratados, para los profesionales de la salud.</seg>
       </tuv>
     </tu>
     <tu>

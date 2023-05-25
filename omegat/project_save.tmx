@@ -1070,7 +1070,7 @@ Este grupo de alimentos incluye carne magra (p. ej., carne de res, cordero, cerd
       <tuv lang="en">
         <seg>Milk alternatives, such as soy and rice milk fortified with calcium and other nutrients, also belong to this food group.</seg>
       </tuv>
-      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230525T134319Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230525T134723Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
         <seg>Las alternativas lácteas, como la leche de soja y de arroz enriquecidas con calcio y otros nutrientes, también pertenecen a este grupo de alimentos.</seg>
       </tuv>
     </tu>
@@ -1448,7 +1448,7 @@ Este documento está disponible en www.health.govt.nz</seg>
       <tuv lang="en">
         <seg>Some plant milks contain significantly lower levels of nutrients (eg, energy, protein) than cow’s milk so should not be considered equivalent (see section 5.4: Sources of fluid in the diet).</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230525T134738Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
         <seg>Algunas leches vegetales contienen niveles significativamente más bajos de nutrientes (p. ej., energía, proteínas) que la leche de vaca, por lo que no deben considerarse equivalentes (ver sección 5.4: Fuentes de líquido en la dieta).</seg>
       </tuv>
     </tu>

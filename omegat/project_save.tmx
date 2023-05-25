@@ -942,6 +942,22 @@ Proporciona información sobre las pautas alimentarias actuales, la ingesta de n
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also sets out strategies for increasing physical activity and reducing sedentary behaviour.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T141959Z" creationid="sansi" creationdate="20230525T141959Z">
+        <seg>También establece estrategias para aumentar la actividad física y reducir el sedentarismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It focuses particularly on the food environment and how it influences the purchase and consumption of food, including food access and availability, food price, portion size, food marketing, and the nature of food in schools.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T141901Z" creationid="sansi" creationdate="20230525T141901Z">
+        <seg>Se centra especialmente en el entorno alimentario y en cómo influye en la compra y el consumo de alimentos, incluido el acceso a los alimentos y su disponibilidad, el precio de los alimentos, el tamaño de las porciones, la comercialización de los alimentos y la naturaleza de la comida en las escuelas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It generally means the entire grain seed or kernel is intact and so includes the bran, germ and endosperm.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230524T150217Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
@@ -954,6 +970,14 @@ Proporciona información sobre las pautas alimentarias actuales, la ingesta de n
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230428T144406Z" creationid="sansi" creationdate="20230428T144406Z">
         <seg>El origen del beneficio es el efecto sinergético de la mezcla de compuestos protectores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its aim is to enhance the cultural competence of health practitioners working with Māori.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142052Z" creationid="sansi" creationdate="20230525T142052Z">
+        <seg>Su objetivo es mejorar la competencia cultural de los profesionales sanitarios que trabajan con maoríes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1234,14 @@ Cualquier persona puede atragantarse pero los niños menores de cinco años tien
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Part 10: Considerations for Pacific children, young people and their families provides information on Pacific concepts of health, traditional foods, broader determinants of health, and current nutrition issues.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142115Z" creationid="sansi" creationdate="20230525T142115Z">
+        <seg>Parte 10: Consideraciones para los niños del Pacífico, los jóvenes y sus familias proporciona información sobre los conceptos de salud del Pacífico, los alimentos tradicionales, los determinantes más amplios de la salud y las cuestiones actuales de nutrición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Part 1: New Zealand Food and Nutrition Guidelines
 1.1	The New Zealand Food and Nutrition Guideline Statements, including physical activity
 The New Zealand Food and Nutrition Guideline Statements for healthy children and young people are the key recommendations to ensure optimal growth and prevent nutritional deficiencies, obesity and diet-related chronic diseases.</seg>
@@ -1286,6 +1318,22 @@ Se recomiendan tres comidas y dos o tres pequeños tentempiés, a horas regulare
       </tuv>
       <tuv lang="es" changeid="sansi" changedate="20230525T141533Z" creationid="sansi" creationdate="20230525T141533Z">
         <seg>Parte 7: El Entorno más Amplio y su Influencia en lo que Comen las Familias y las Personas ofrece información sobre el impacto del entorno social, cultural y económico más allá de la familia y el whānau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 8: Physical Activity provides information on the benefits of physical activity, recommendations for physical activity and screen time, and an overview of current physical activity and sedentary behaviour patterns.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T141922Z" creationid="sansi" creationdate="20230525T141922Z">
+        <seg>Parte 8: Actividad física proporciona información sobre los beneficios de la actividad física, recomendaciones para la actividad física y el tiempo frente a la pantalla, y una visión general de los patrones actuales de actividad física y comportamiento sedentario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Part 9: Considerations for tamariki and rangatahi Māori and their whānau provides information on the Māori view of health, illness and kai, broader determinants of health, and current nutrition-related issues.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T142030Z" creationid="sansi" creationdate="20230525T142030Z">
+        <seg>Parte 9: Consideraciones para tamariki y rangatahi maoríes y sus whānau proporciona información sobre la visión maorí de la salud, la enfermedad y el kai, los determinantes más amplios de la salud y cuestiones actuales relacionadas con la nutrición.</seg>
       </tuv>
     </tu>
     <tu>

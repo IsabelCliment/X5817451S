@@ -504,6 +504,14 @@ lean meat, poultry, fish, shellfish, eggs, legumes, nuts and seeds.*
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Examples of healthy and nutritious snacks are: fruit, yoghurt, vegetable sticks with a low-fat dip (eg, hummus or yoghurt-based dips), mini-sandwiches, mini homemade ‘pizzas’, ‘mousetraps’ (toasted cheese and yeast extract spread on bread), nuts and milk.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230525T124455Z" creationid="Usuario" creationdate="20230525T124455Z">
+        <seg>Algunos ejemplos de tentempiés sanos y nutritivos son: fruta, yogur, palitos de verdura con una salsa baja en grasas (por ejemplo, hummus o salsas a base de yogur), minisándwiches, minipizzas caseras, ratoncitos (queso tostado y extracto de levadura untado en pan), frutos secos y leche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Food and Nutrition Guidelines for Healthy Children and Young People
 (aged 2–18 years)
 A background paper</seg>

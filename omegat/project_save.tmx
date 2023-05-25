@@ -538,6 +538,16 @@ A background paper</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Food and nutrition for children and young people
+Childhood and adolescence are periods of rapid physical, social, cognitive and behavioural change.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T131411Z" creationid="sansi" creationdate="20230525T131411Z">
+        <seg>Alimentación y nutrición para niños y jóvenes
+La infancia y la adolescencia son periodos de cambios físicos, sociales, cognitivos y de comportamiento rápidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Food groups and recommended serving sizes
 The Food and Nutrition Guideline Statements refer to the four food groups:
 1.</seg>

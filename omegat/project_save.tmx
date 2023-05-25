@@ -1003,10 +1003,26 @@ Cualquier persona puede atragantarse pero los niños menores de cinco años tien
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most (&gt;90%) young children have at least something to eat for lunch when at school.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230525T124010Z" creationid="Usuario" creationdate="20230525T124010Z">
+        <seg>La mayoría (&gt;90%) de los niños pequeños almuerzan algo cuando están en la escuela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Most people eat meals on a daily basis at particular times (eg, breakfast, lunch, dinner).</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230509T134135Z" creationid="Zsuzsanna Tóth" creationdate="20230509T134135Z">
         <seg>La mayoría de las personas comen diariamente a horas determinadas (p. ej., desayuno, almuerzo, cena).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nearly half of 12–18 year olds get their lunch from the school canteen or tuckshop.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230525T124224Z" creationid="Usuario" creationdate="20230525T124224Z">
+        <seg>Casi la mitad de los jóvenes de 12 a 18 años almuerza en el comedor escolar o en la cantina.</seg>
       </tuv>
     </tu>
     <tu>

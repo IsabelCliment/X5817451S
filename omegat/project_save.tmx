@@ -927,6 +927,14 @@ Este grupo de alimentos incluye carne magra (p. ej., carne de res, cordero, cerd
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lunch contributes significantly to daily energy and nutrient intakes, and provides energy when levels may be decreasing.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230525T123854Z" creationid="Usuario" creationdate="20230525T123854Z">
+        <seg>El almuerzo contribuye significativamente a la ingesta diaria de energía y nutrientes, y proporciona energía cuando los niveles estan disminuyendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Many factors other than the number of servings from each food group will influence the total energy and nutrient intake of the diet.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T163223Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
@@ -1181,6 +1189,14 @@ Este documento está disponible en www.health.govt.nz</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230524T144909Z" creationid="OmegaT Aligner" creationdate="20230524T144909Z">
         <seg>A los granos refinados se les ha eliminado la mayor parte o la totalidad del salvado y el germen, dejando solo el endospermo, por lo que proporcionan sustancialmente menos nutrientes y menos fibra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Research shows foods brought from home are likely to be more nutritious and cost-effective than foods bought either at school or on the way to school.</seg>
+      </tuv>
+      <tuv lang="es" changeid="Usuario" changedate="20230525T123949Z" creationid="Usuario" creationdate="20230525T123949Z">
+        <seg>Las investigaciones demuestran que los alimentos traídos de casa son probablemente más nutritivos y rentables que los que se compran en la escuela o de camino.</seg>
       </tuv>
     </tu>
     <tu>

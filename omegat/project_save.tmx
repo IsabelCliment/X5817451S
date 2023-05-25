@@ -612,6 +612,14 @@ Las ingestas recomendadas de los cuatro grupos de alimentos proporcionan una gu�
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, new sections outline considerations for selected population subgroups, the influence of social, economic and other environmental factors on food choice, and related topics such as oral health.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T133603Z" creationid="sansi" creationdate="20230525T133603Z">
+        <seg>Por ejemplo, en nuevas secciones se exponen consideraciones relativas a determinados subgrupos de población, la influencia de los factores ambientales en la elección de alimentos y temas relacionados, como la salud bucodental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, nutrient intake will depend on whether people choose the healthiest options within food groups (eg, wholegrain breads and cereals, low-fat and reduced-fat milk and milk products, and lean meats, legumes, etc) and how they prepare and cook the food.</seg>
       </tuv>
       <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T163223Z" creationid="OmegaT Aligner" creationdate="20230523T163223Z">
@@ -805,6 +813,15 @@ type 2 diabetes and many cancers.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In recognition of changing nutritional concerns for children and young people and the strong influence of environmental factors on food choice, some topics included are additional to those in previous editions of the guidelines for healthy children (aged
+2–12 years) (1997) and healthy adolescents (1998).</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T133515Z" creationid="sansi" creationdate="20230525T133515Z">
+        <seg>En reconocimiento a la evolución de las preocupaciones nutricionales de los niños y los jóvenes y a la gran influencia de los factores ambientales en la elección de alimentos, algunos temas incluidos son adicionales a los de ediciones anteriores de las directrices para niños sanos (de 2 a 12 años) (1997) y adolescentes sanos (1998).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In recognition of the many factors that influence the food choices of children and young people, some new topics have been included.</seg>
       </tuv>
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T192739Z" creationid="Zsuzsanna Tóth" creationdate="20230519T192739Z">
@@ -892,6 +909,14 @@ Food and Nutrition Guidelines for Healthy Children and Young People (Aged 2–18
       <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230524T062656Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
         <seg>Introducción
 Directrices sobre alimentación y nutrición para niños y jóvenes sanos (de 2 a 18 años): Un documento de referencia, forma parte de una serie de documentos de referencia específicos sobre alimentación y nutrición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It aims to promote health, while also preventing obesity and diet-related chronic diseases.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T133105Z" creationid="sansi" creationdate="20230525T133105Z">
+        <seg>Su objetivo es promover la salud y prevenir la obesidad y las enfermedades crónicas relacionadas con la dieta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1413,6 +1438,16 @@ Este documento está disponible en www.health.govt.nz</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Structure of this paper
+Food and nutrition guidance for children and young people is aimed at ensuring optimal growth and preventing nutritional deficiencies.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T133038Z" creationid="sansi" creationdate="20230525T133038Z">
+        <seg>Estructura de este documento
+Las orientaciones sobre alimentación y nutrición para niños y jóvenes tienen por objeto garantizar un crecimiento óptimo y prevenir las deficiencias nutricionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Summary of food groups, serving sizes and recommended intakes
 Table 1 shows the four food groups, specific foods included in each group, the minimum number of servings of each group recommended for healthy children and young people, and examples of standard serving sizes.</seg>
       </tuv>
@@ -1850,6 +1885,14 @@ Always make sure young children sit down while they eat, and that an adult is wi
       <tuv lang="es" changeid="sansi" changedate="20230519T163051Z" creationid="sansi" creationdate="20230519T163051Z">
         <seg>Para reducir el riesgo de asfixia por comida en niños:
 Asegúrese de que los niños siempre están sentados a la hora de comer, y que un adulto está con ellos mientras comen o beben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Topics designed to achieve these goals are included in this paper.</seg>
+      </tuv>
+      <tuv lang="es" changeid="sansi" changedate="20230525T133134Z" creationid="sansi" creationdate="20230525T133134Z">
+        <seg>En este documento se incluyen temas diseñados para alcanzar estos objetivos.</seg>
       </tuv>
     </tu>
     <tu>

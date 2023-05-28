@@ -442,8 +442,8 @@ lean meat, poultry, fish, shellfish, eggs, legumes, nuts and seeds.*
       <tuv lang="en">
         <seg>Eat regularly over the day, that is, have breakfast, lunch and dinner, and include in- between snacks for young children or if hungry.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230519T164708Z" creationid="sansi" creationdate="20230519T164708Z">
-        <seg>Coma regularmente durante el dia, esto es, tomar desayuno, comida y cena incluyendo snacks entre horas para adolescentes si tienen hambre.</seg>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230528T193532Z" creationid="sansi" creationdate="20230519T164708Z">
+        <seg>Coma regularmente durante el dia, esto es, tomar desayuno, comida y cena, incluyendo tentempiés entre horas para adolescentes si tienen hambre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1393,10 +1393,10 @@ low in fat, especially saturated fat
 low in sugar, especially added sugar
 low in salt (if using salt, use iodised salt).</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230519T164736Z" creationid="sansi" creationdate="20230519T164736Z">
-        <seg>Prepare comidas o elija comidas precocinadas, snacks y bebidas que son:
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230528T193606Z" creationid="sansi" creationdate="20230519T164736Z">
+        <seg>Prepare comidas o elija comidas precocinadas, tentempiés y bebidas que son:
 bajas en grasa, especialmente grasas saturadas
-bajas en azucas, especialmente azúcares añadidos
+bajas en azúcar, especialmente azúcares añadidos
 bajas en sal (en caso de usar sal, mejor sal yodada).</seg>
       </tuv>
     </tu>

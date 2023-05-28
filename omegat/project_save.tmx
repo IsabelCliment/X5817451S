@@ -383,8 +383,8 @@ Chief Medical Officer
 Clinical Leadership, Protection and Regulation Business Unit
 Ministry of Health</seg>
       </tuv>
-      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230519T193644Z" creationid="Zsuzsanna Tóth" creationdate="20230519T193644Z">
-        <seg>Dr. Don Mackie
+      <tuv lang="es" changeid="Usuario" changedate="20230528T184656Z" creationid="Zsuzsanna Tóth" creationdate="20230519T193644Z">
+        <seg>Dr.Don Mackie
 Médico Jefe
 Unidad de Liderazgo Clínico, Protección y Regulación
 Ministerio de Sanidad </seg>
@@ -1765,8 +1765,8 @@ Jóvenes (13-18 años): al menos 3 raciones
       <tuv lang="en">
         <seg>Tammy Kaiwai, Soana Muimuiheata and Pratibha Balu provided specialist input to the meal plans in Appendix 5.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230528T180909Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
-        <seg>Tammy Kaiwai, Soana Muimuiheata y Pratibha Balu hicieron aportaciones especializadas en los planes de comidas del apéndice.</seg>
+      <tuv lang="es" changeid="Usuario" changedate="20230528T184508Z" creationid="OmegaT Aligner" creationdate="20230519T182528Z">
+        <seg>Tammy Kaiwai, Soana Muimuiheata y Pratibha Balu hicieron aportaciones especializadas en los planes de comidas del apéndice 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2121,9 +2121,8 @@ Las verduras y las frutas proporcionan energía, carbohidratos, fibra dietética
       <tuv lang="en">
         <seg>What are ‘wholegrains’?</seg>
       </tuv>
-      <tuv lang="es" changeid="mgr26" changedate="20230518T171618Z" creationid="mgr26" creationdate="20230518T171618Z">
-        <seg>
-¿Qué son los cereales integrales?</seg>
+      <tuv lang="es" changeid="Usuario" changedate="20230528T184549Z" creationid="mgr26" creationdate="20230518T171618Z">
+        <seg>¿Qué son los cereales integrales?</seg>
       </tuv>
     </tu>
     <tu>

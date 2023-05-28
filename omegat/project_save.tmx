@@ -8,8 +8,8 @@
       <tuv lang="en">
         <seg>(See Appendix 7 for a summary of these surveys.)</seg>
       </tuv>
-      <tuv lang="es" changeid="OmegaT Aligner" changedate="20230523T181020Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
-        <seg>(Véase un resumen de estas encuestas en el apéndice 7).</seg>
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230528T171521Z" creationid="OmegaT Aligner" creationdate="20230523T181020Z">
+        <seg>(Véase un resumen de estas encuestas en el Apéndice 7.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1020,9 +1020,9 @@ Proporciona información sobre las pautas alimentarias actuales, la ingesta de n
 According to the 2002 National Children’s Nutrition Survey:
 one in two children and young people (51%) consumed two or more servings of meat, fish, poultry and eggs each day (Ministry of Health 2003b).</seg>
       </tuv>
-      <tuv lang="es" changeid="Usuario" changedate="20230523T182036Z" creationid="Usuario" creationdate="20230523T182036Z">
+      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230528T171633Z" creationid="Usuario" creationdate="20230523T182036Z">
         <seg>Carne magra, aves, marisco, huevos, legumbres, frutos secos y semillas*.
-Según la Encuesta Nacional de Nutrición Infantil de 2002
+Según la Encuesta Nacional de Nutrición Infantil de 2002:
 uno de cada dos niños y jóvenes (51%) consumía dos o más raciones de carne, pescado, aves y huevos al día (Ministerio de Sanidad 2003b). </seg>
       </tuv>
     </tu>

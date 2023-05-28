@@ -184,13 +184,13 @@ To reduce the risk of choking on these foods, you can:
 	–	remove the high risk parts of the food – peel off the skin, or remove the strong fibres
 	–	avoid giving small hard foods, such as whole nuts and large seeds, until children are at least 5 years old.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230528T183705Z" creationid="sansi" creationdate="20230519T152435Z">
+      <tuv lang="es" changeid="sansi" changedate="20230528T184552Z" creationid="sansi" creationdate="20230519T152435Z">
         <seg>Sea consciente de las comidas con mayor probabilidad de causar asfixia:
 	–	comidas pequeñas y duras que dificultan el masticar o morder a los niños (ej. nueces, zanahoria cruda, manzana, apio)
 	–	comidas pequeñas y con forma redonda que pueden quedarse atascadas en la garganta de un niño (ej. uvas, bayas, guisantes, sandía u otras semillas grandes, piruletas, pasas/pasas de esmirna)
 	–	comida con pieles u hojas que dificultan el masticar (ej. salchichas, pollo, lechuga, nectarinas, melocotones, ciruelas)
 	–	comida compacta* que puede quedarse atascada en la garganta de un niño (ej. perritos calientes, salchichas, trozos de carne cocinada, palomitas)
-	–	cremas espesas que pueden quedarse atascadas en la garganta de un niño (ej. chocolate para untar, mantequilla de cacahuete espesa)
+	–	cremas espesas que pueden quedarse atascadas en la garganta de un niño (ej. chocolate para untar, mantequila de cacahuete espesa)
 	–	comida fibrosa o con fibras que son difíciles de masticar para un niño (apio, ruibarbo, piña)
 Para reducir el riesgo de asfixia con estas comidas, puede:
 	–	alterar la textura de la comida - rallarla, cocinarla, cortarla en láminas o hacerla puré.
@@ -258,8 +258,8 @@ Desayunar está asociado con una variedad de resultados positivos para la salud,
       <tuv lang="en">
         <seg>Breakfast consumption by parents and caregivers, and the availability of breakfast foods are important determinants of regular breakfast consumption.</seg>
       </tuv>
-      <tuv lang="es" changeid="Usuario" changedate="20230523T184942Z" creationid="Usuario" creationdate="20230523T184942Z">
-        <seg>El consumo de desayuno por parte de los padres y cuidadores, y la disponibilidad de alimentos para el desayuno son elementos importantes del consumo regular de desayuno.</seg>
+      <tuv lang="es" changeid="sansi" changedate="20230528T184219Z" creationid="Usuario" creationdate="20230523T184942Z">
+        <seg>El consumo de desayuno por parte de los padres y cuidadores, y la disponibilidad de alimentos para el desayuno son elementos importantes del consumo habitual de desayuno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -372,7 +372,7 @@ A efectos del presente documento de referencia, se entiende por "niños y jóven
       <tuv lang="en">
         <seg>Do not give children less than 13 years of age coffee or tea.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230519T164751Z" creationid="sansi" creationdate="20230519T164751Z">
+      <tuv lang="es" changeid="sansi" changedate="20230528T184449Z" creationid="sansi" creationdate="20230519T164751Z">
         <seg>No de café o té a niños menores de 13 años.</seg>
       </tuv>
     </tu>
@@ -516,7 +516,7 @@ lean meat, poultry, fish, shellfish, eggs, legumes, nuts and seeds.*
       <tuv lang="en">
         <seg>Energy drinks or energy shots are not recommended for children or young people.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230519T164747Z" creationid="sansi" creationdate="20230519T164747Z">
+      <tuv lang="es" changeid="sansi" changedate="20230528T184445Z" creationid="sansi" creationdate="20230519T164747Z">
         <seg>Las bebidas energéticas no son recomendables para niños o adolescentes.</seg>
       </tuv>
     </tu>
@@ -1050,7 +1050,7 @@ Este grupo de alimentos incluye carne magra (p. ej., carne de res, cordero, cerd
       <tuv lang="en">
         <seg>Limit drinks such as fruit juice, cordial, fruit drink, fizzy drinks (including diet drinks), sports drinks and sports water.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230519T164743Z" creationid="sansi" creationdate="20230519T164743Z">
+      <tuv lang="es" changeid="sansi" changedate="20230528T184437Z" creationid="sansi" creationdate="20230519T164743Z">
         <seg>Limite bebidas tales como zumos de frutas, bebidas de frutas, bebidas gaseosas (incluso las que son sin azúcar) y bebidas isotónicas.</seg>
       </tuv>
     </tu>
@@ -1208,8 +1208,8 @@ Cualquier persona puede atragantarse pero los niños menores de cinco años tien
       <tuv lang="en">
         <seg>Offer food that matches their chewing and grinding ability.</seg>
       </tuv>
-      <tuv lang="es" changeid="Usuario" changedate="20230528T172719Z" creationid="sansi" creationdate="20230519T152427Z">
-        <seg>Ofrecezca comida de acuerdo con sus habilidades para masticar y moler.</seg>
+      <tuv lang="es" changeid="sansi" changedate="20230528T184556Z" creationid="sansi" creationdate="20230519T152427Z">
+        <seg>Ofrecezca comida de acuerdo con sus habilidades para masticar y moler.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1572,8 +1572,8 @@ Este documento está disponible en www.health.govt.nz</seg>
       <tuv lang="en">
         <seg>Spend less than two hours a day (out of school time) in front of television, computers and gaming consoles.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230519T162932Z" creationid="sansi" creationdate="20230519T162932Z">
-        <seg>Pasar menos de dos horas diarias (fuera de las horas lectivas) delante de la televisión, ordenador o videoconsolas.</seg>
+      <tuv lang="es" changeid="sansi" changedate="20230528T184502Z" creationid="sansi" creationdate="20230519T162932Z">
+        <seg>Pasar menos de dos horas diarias (fuera de las horas lectivas) delante de la televisión, ordenador o videoconsolas</seg>
       </tuv>
     </tu>
     <tu>
@@ -1757,8 +1757,8 @@ Jóvenes (13-18 años): al menos 3 raciones
       <tuv lang="en">
         <seg>Take part in regular physical activity, aiming for 60 minutes or more of moderate to vigorous activity each day.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230519T162925Z" creationid="sansi" creationdate="20230519T162917Z">
-        <seg>Participar en actividades físicas regulares procurando a 60 minutos o más de actividad moderada a vigurosa diariamente.</seg>
+      <tuv lang="es" changeid="sansi" changedate="20230528T184508Z" creationid="sansi" creationdate="20230519T162917Z">
+        <seg>Participar en actividades físicas regulares procurando a 60 minutos o más de actividad moderada a vigurosa diariamiente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2054,7 +2054,7 @@ Encuesta Nacional de Nutrición Infantil 2002 (Ministerio de Sanidad 2003b)
         <seg>To reduce the risk of food-related choking in young children:
 Always make sure young children sit down while they eat, and that an adult is with them while they are eating or drinking.</seg>
       </tuv>
-      <tuv lang="es" changeid="sansi" changedate="20230519T163051Z" creationid="sansi" creationdate="20230519T163051Z">
+      <tuv lang="es" changeid="sansi" changedate="20230528T184600Z" creationid="sansi" creationdate="20230519T163051Z">
         <seg>Para reducir el riesgo de asfixia por comida en niños:
 Asegúrese de que los niños siempre están sentados a la hora de comer, y que un adulto está con ellos mientras comen o beben.</seg>
       </tuv>
@@ -2207,8 +2207,8 @@ Las verduras y las frutas proporcionan energía, carbohidratos, fibra dietética
         <seg>vegetables and fruit
 2.</seg>
       </tuv>
-      <tuv lang="es" changeid="Zsuzsanna Tóth" changedate="20230428T145631Z" creationid="Zsuzsanna Tóth" creationdate="20230428T145551Z">
-        <seg>verdura y fruta
+      <tuv lang="es" changeid="sansi" changedate="20230528T184520Z" creationid="Zsuzsanna Tóth" creationdate="20230428T145551Z">
+        <seg>fruta y verdura
 2.</seg>
       </tuv>
     </tu>
